@@ -1,0 +1,80 @@
+---
+title: "Changes to Vista Views and Columns | Trimble Help"
+source_url: "https://help.trimble.com/en/vista/vista/whats-new/whats-new-in-vista/whats-new-in-2025.8/vista-database-changes/changes-to-vista-views-and-columns"
+fetched_at: "2026-03-25T16:24:33.094126+00:00"
+menu_path: "/en/vista/vista/whats-new/whats-new-in-vista/whats-new-in-2025.8/vista-database-changes/changes-to-vista-views-and-columns"
+---
+
+# Changes to Vista Views and Columns
+
+The following tables display all Vista views and columns that were added for the 2025.8 release.
+ViewColumnForm TitleForm Name
+HQStateComplianceCountryHQ State ComplianceHQStateCompliance
+EffDateHQ State ComplianceHQStateCompliance
+KeyIDHQ State ComplianceHQStateCompliance
+MealBreakHQ State ComplianceHQStateCompliance
+MealBreakHrsHQ State ComplianceHQStateCompliance
+MealBreakLengthHQ State ComplianceHQStateCompliance
+MealBreakPenaltyHQ State ComplianceHQStateCompliance
+MealBreakPenaltyHrsHQ State ComplianceHQStateCompliance
+MinWageHQ State ComplianceHQStateCompliance
+NotesHQ State ComplianceHQStateCompliance
+OTScheduleHQ State ComplianceHQStateCompliance
+OTTypeHQ State ComplianceHQStateCompliance
+StateHQ State ComplianceHQStateCompliance
+StateFormHQ State ComplianceHQStateCompliance
+SupWageRateHQ State ComplianceHQStateCompliance
+UniqueAttchIDHQ State ComplianceHQStateCompliance
+WthCertHQ State ComplianceHQStateCompliance
+HRESLeaveRequestIDHR Leave RequestHRPTORequestMasterDetail
+LeaveRequestIDHR Resource ScheduleHRResourceSchedule
+POXACmtdTaxNULLNULL
+PRCOTimecardComplianceYNPR Company ParametersPRCompany
+PRCompanyCompliance SetupDescriptionPR Timecard Validation RulesPRTimecardValidationRules
+EnabledYNPR Timecard Validation RulesPRTimecardValidationRules
+KeyIDPR Timecard Validation RulesPRTimecardValidationRules
+MessagePR Timecard Validation RulesPRTimecardValidationRules
+NamePR Timecard Validation RulesPRTimecardValidationRules
+PRCoPR Timecard Validation RulesPRTimecardValidationRules
+RuleIDPR Timecard Validation RulesPRTimecardValidationRules
+RuleTypePR Timecard Validation RulesPRTimecardValidationRules
+SeverityPR Timecard Validation RulesPRTimecardValidationRules
+PRCompanyCompliance SetupParametersDataFormatPR Company Compliance ParamsPRTimecardValidationRulesParam
+DataTypePR Company Compliance ParamsPRTimecardValidationRulesParam
+DescriptionPR Company Compliance ParamsPRTimecardValidationRulesParam
+IDPR Company Compliance ParamsPRTimecardValidationRulesParam
+KeyIDPR Company Compliance ParamsPRTimecardValidationRulesParam
+PRCoPR Company Compliance ParamsPRTimecardValidationRulesParam
+ParamNamePR Company Compliance ParamsPRTimecardValidationRulesParam
+ValuePR Company Compliance ParamsPRTimecardValidationRulesParam
+vPRCompanyComplianceSetup_RuleIDPR Company Compliance ParamsPRTimecardValidationRulesParam
+PREHFLSAExemptYNPR Employee AccumulationsPREmployeeAccumulations
+FLSAExemptYNPR Employee Accumulations oldPREmplAccums
+FLSAExemptYNPR EmployeesPREmpl
+PREmployeeDailyTimeEMCostCodeKeyIDPR Employee Daily TimePREmployeeDailyTime
+EMWorkOrderItemKeyIDPR Employee Daily TimePREmployeeDailyTime
+EMWorkOrderKeyIDPR Employee Daily TimePREmployeeDailyTime
+EquipmentKeyIDPR Employee Daily TimePREmployeeDailyTime
+PRTBAcceptedByPR Auto OvertimePRAutoOT
+AcceptedByPR Post Auto EarningsPRPostAutoEarns
+AcceptedByPR Salary DistributionPRSalaryDistrib
+AcceptedByPR Timecard CompliancePRTimeCardsCompliance
+AcceptedByPR Timecard EntryPRTimeCards
+ComplianceAcceptYNPR Auto OvertimePRAutoOT
+ComplianceAcceptYNPR Post Auto EarningsPRPostAutoEarns
+ComplianceAcceptYNPR Salary DistributionPRSalaryDistrib
+ComplianceAcceptYNPR Timecard CompliancePRTimeCardsCompliance
+ComplianceAcceptYNPR Timecard EntryPRTimeCards
+ReasonPR Auto OvertimePRAutoOT
+ReasonPR Post Auto EarningsPRPostAutoEarns
+ReasonPR Salary DistributionPRSalaryDistrib
+ReasonPR Timecard CompliancePRTimeCardsCompliance
+ReasonPR Timecard EntryPRTimeCards
+RowVersionPR Auto OvertimePRAutoOT
+RowVersionPR Post Auto EarningsPRPostAutoEarns
+RowVersionPR Salary DistributionPRSalaryDistrib
+RowVersionPR Timecard CompliancePRTimeCardsCompliance
+RowVersionPR Timecard EntryPRTimeCards
+PRTHAcceptedByPR Pay Pd Control CompliancePRPayPdControlCompliance
+ComplianceAcceptYNPR Pay Pd Control CompliancePRPayPdControlCompliance
+ReasonPR Pay Pd Control CompliancePRPayPdControlCompliance

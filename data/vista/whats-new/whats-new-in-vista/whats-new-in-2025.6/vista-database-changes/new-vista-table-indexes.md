@@ -1,0 +1,27 @@
+---
+title: "New Vista Table Indexes | Trimble Help"
+source_url: "https://help.trimble.com/en/vista/vista/whats-new/whats-new-in-vista/whats-new-in-2025.6/vista-database-changes/new-vista-table-indexes"
+fetched_at: "2026-03-25T16:24:33.094126+00:00"
+menu_path: "/en/vista/vista/whats-new/whats-new-in-vista/whats-new-in-2025.6/vista-database-changes/new-vista-table-indexes"
+---
+
+# New Vista Table Indexes
+
+The following is a list of Vista table indexes added for the 2025.6 release.
+Table NameIndex NameColumn NamePrimaryUnique
+bAPDBPK_bAPDB_auto_generatedAuditIDYY
+bAPHBPK_bAPHB_auto_generatedAuditIDYY
+bAPPBPK_bAPPB_auto_generatedAuditIDYY
+bAPTBPK_bAPTB_auto_generatedAuditIDYY
+udtCustomLinks_TC1pk_udtCustomLinks_TC1_CustomIDCustomIDYY
+udtExecDashCacheAP_TC1pk_udtExecDashCacheAP_TC1_KeyIDKeyIDYY
+udtExecDashCacheAPAll_TC1pk_udtExecDashCacheAPAll_TC1_KeyIDKeyIDYY
+udtExecDashCacheAR_TC1pk_udtExecDashCacheAR_TC1_KeyIDKeyIDYY
+udtExecDashCacheJCWIP_TC1pk_udtExecDashCacheJCWIP_TC1_TC1_KeyIDKeyIDYY
+udtExecDashCacheJCWIPxtd_TC1pk_udtExecDashCacheJCWIPxtd_TC1_KeyIDKeyIDYY
+udtExecDashCacheLastUpdate_TC1IX_udtExecDashCacheLastUpdateRevenue_TC1JobNY
+udtExecDashCacheLastUpdate_TC1idx_udtExecDashCacheLastUpdate_TC1_KeyIDKeyIDNY
+udtExecDashCacheLastUpdateCost_TC1pk_udtExecDashCacheLastUpdateCost_TC1_KeyIDKeyIDYY
+udtExecDashCacheProcessHistory_TC1pk_udtExecDashCacheProcessHistory_TC1_CacheIDCacheIDYY
+udtExecDashCacheProcessLog_TC1pk_udtExecDashCacheProcessLog_TC1_LogIDLogIDYY
+udtSimpleLog_TC1pk_udtSimpleLog_TC1_ErrorIDErrorIDYY

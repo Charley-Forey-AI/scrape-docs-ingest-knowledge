@@ -1,0 +1,15 @@
+---
+title: "Cash Receipts | Trimble Help"
+source_url: "https://help.trimble.com/en/vista/vista/accounting/accounts-receivable/invoices/transaction-entry/cash-receipts"
+fetched_at: "2026-03-25T16:24:33.094126+00:00"
+menu_path: "/en/vista/vista/accounting/accounts-receivable/invoices/transaction-entry/cash-receipts"
+---
+
+# Cash Receipts
+
+Payment transactions are entered in the AR Cash Receipts program, and are used to post payments received from a customer.
+You can apply payments manually using the payment grid and payment detail screen, or you can apply payments automatically through initialization. If you are initializing payments, you have several options available that determine how the payment is to be applied. For example, you can elect to apply payment to the 'oldest' invoices. With this option, the program will systematically apply the payment to the oldest invoice first, and then if the payment is not fully applied, will move to the next oldest invoice. This process will continue until payment is fully applied.
+Other options include 'on account', by invoice number (using either the first open invoice or a specific invoice), or by customer job (only used if you have Material Sales and are interfacing invoices from MS). Typically, if the customer is an 'Open Item' customer, payments will be applied to specific invoices. However, the system will allow you to apply the payment on account, if desired. For 'Balance Forward' customers, you would generally apply the payment to the customers account balance, but you do have the option to apply payments to specific invoices.
+You also have options that allow you to apply payment to retainage and/or finance charges. If you are applying payment to retainage and finance charges, the system will apply payment to finance charges first, then retainage, then the invoice total. However, if the payment amount is not sufficient enough to pay the entire balance (finance charges, retainage, and the invoice amount), the finance charges will be paid first and any remaining amount applied to the invoice total.
+If you elect to apply discounts when posting payments, the system will automatically apply the offered discount as long as the payment is made before the specified discount date, and the amount of the payment covers the entire balance due. If conditions are not met, the discount can still be taken, but you will need to enter the amount manually. Note: If you have posted a payment to an invoice, and later post a credit or adjustment to that invoice, it is important that you remember to back out and re-apply that payment. If you have not closed GL, you can accomplish this by accessing the line(s) to which the payment was applied and enter a zero amount in the Apply Amount field. Then, either apply the amount to another invoice or apply the payment on account
+If GL has been closed, you can post a zero amount check in a current month, a negative payment to the same invoice that the original payment was applied to, and apply a positive payment on account or to another invoice.

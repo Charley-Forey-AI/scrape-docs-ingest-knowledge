@@ -1,0 +1,15 @@
+---
+title: "About Part-Year PAYG Payment Summaries | Trimble Help"
+source_url: "https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/quarteryear-end-reporting/payg-payment-summaries/about-part-year-payg-payment-summaries"
+fetched_at: "2026-03-25T16:24:33.094126+00:00"
+menu_path: "/en/vista/vista/hr-and-payroll/payroll/quarteryear-end-reporting/payg-payment-summaries/about-part-year-payg-payment-summaries"
+---
+
+# About Part-Year PAYG Payment Summaries
+
+PAYG payment summaries are typically run at the end of the tax year or when an employee is terminated within a tax year.
+However, the ATO (Australian Taxation Office) allows for part-year payment summaries, which you must provide an employee within 14 day of their request. In most cases, a part-year summary will provide details of withholding payments made from the start of the current tax year up through the date of the summary request. However, if an employee has previously requested a part-year summary in the current tax year, the new summary will only include details from the date of the previous part-year summary through the date of the current request.
+The same is true when running year-end summaries for employees who have been issued part-year summaries. The system will only pull data from the issue date of the last part-year summary through June 30th of the current tax year.
+Use the PR PAYG Summary Process form to prepare part-year PAYG payment summaries, just as you would for full-year summaries. However, before you generate a part-year summary, it is suggested that you enter a Period End Date for the current reporting period in the PR Employees form (PAYG Reporting Periods tab). Because the employee has not been terminated (no Termination Date in the PR Employees form), the system will automatically create a new reporting period for the employee with a Period Start Date of one day after the Period End Date of the previous reporting period record. For more information about creating part-year summaries, see [Generate Employee PAYG Amounts for a Single Employee (Part-Year
+ Summary)](/en/vista/vista/hr-and-payroll/payroll/quarteryear-end-reporting/payg-payment-summaries/about-part-year-payg-payment-summaries/generate-employee-payg-amounts-for-a-single-employee-part-year-summary).
+When you are ready to print an employee's part-year payment summary (via the PR PAYG Payment Summary INB form), you can specify the summary number to print. The summaries generated for an employee (via PR PAYG Employee Generate Amts) are displayed on the PAYG INB Summaries tab in the PR Employee PAYG Summaries form. These summary records correspond to the reporting periods shown for the employee in the PR Employees form on the PAYG Reporting Periods tab. For information about printing part-year summaries, see [Print a Part-Year PAYG Payment Summary for an Employee](/en/vista/vista/hr-and-payroll/payroll/quarteryear-end-reporting/payg-payment-summaries/about-part-year-payg-payment-summaries/print-a-part-year-payg-payment-summary-for-an-employee).

@@ -1,0 +1,71 @@
+---
+title: "AP Aged Open Payables with VAT Report | Trimble Help"
+source_url: "https://help.trimble.com/en/vista/vista/reports-catalog/accounts-payable-reports/accounts-payable-general-reports/ap-aged-open-payables-with-vat-report"
+fetched_at: "2026-03-25T16:24:33.094126+00:00"
+menu_path: "/en/vista/vista/reports-catalog/accounts-payable-reports/accounts-payable-general-reports/ap-aged-open-payables-with-vat-report"
+---
+
+# AP Aged Open Payables with VAT Report
+
+The AP Aged Open Payables with VAT report shows the aging of AP invoices with Value
+ Added Tax. You can access this report by selecting Accounts Payable >  Reports  > AP Aged Open Payables with VAT
+The report inputs include an aging date that is used to age the
+ invoices in the appropriate columns, a number of days between columns for more
+ flexibility for aging invoices, a flag to allow the user control of whether or not
+ discounts are included in the invoice amounts, and a flag for whether you want to
+ include invoices dated after the aging date. This aging report looks at invoices
+ with Line type 6, for Subcontracts.Note: If you select the
+ Tax Basis is net of
+ retainage checkbox (located on the Audit Options tab of AP
+ Company Parameters), then the retention / holdback tax will not be included in
+ the Hold/Retainage column. If the box is unchecked then the retention / holdback
+ tax will be included in the Hold/Retainage column.
+Report ParametersDescription
+Company
+Accept the default, or press F4 to select a company.
+
+Sort by Vendor (S)ort Name or (N)umber
+Enter S to sort by vendor name or N to sort by vendor number.
+
+Beginning Vendor Sort Name
+Press F4 to select the beginning vendor name for sorting.
+
+Ending Vendor Sort Name
+Press F4 to select the ending vendor name for sorting.
+
+Beginning Vendor Number
+Press F4 to select the beginning vendor number for sorting.
+
+Ending Vendor Number
+Press F4 to select the ending vendor number for sorting.
+
+Aging Date
+Accept the default or enter the aging date.
+
+Days Between Aging Columns
+Accept default or enter number of days between aging.
+
+Select by (M)onth or (I)nvoice Date
+Enter M for month or I for invoice date. Using the month option restricts invoices posted up to the through month (without regards to date). If you select the date option, the report displays transactions with invoice dates on or before the though date (without regards to month).
+
+Through Invoice Month
+Enter or select the invoice through month.
+
+Through Invoice Date
+Enter or select the through invoice date.
+
+Age by (D)ue Date or (I)nvoice Date
+Enter D to age by due date or I to age by invoice date.
+
+Deduct Discounts?
+Select the checkbox to deduct discounts from amounts. If you do not select the checkbox, the report does not include discounts.
+
+AP Pay Category (Blank for All)
+Press F4 to select a pay category or leave the field blank to include all categories.
+
+Print Vendor Totals Only?
+Select checkbox to print only vendor
+ totals.
+
+Age Non Retainage Hold invoices?
+Select the checkbox for the report to age non-retainage invoices on hold. If you do not select the checkbox, the report will not age non-retainage hold invoices

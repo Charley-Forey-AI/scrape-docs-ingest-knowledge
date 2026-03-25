@@ -1,0 +1,19 @@
+---
+title: "AR Company Parameters | Trimble Help"
+source_url: "https://help.trimble.com/en/vista/vista/reports-catalog/accounts-receivable-reports/accounts-receivable-general-reports/ar-company-parameters"
+fetched_at: "2026-03-25T16:24:33.094126+00:00"
+menu_path: "/en/vista/vista/reports-catalog/accounts-receivable-reports/accounts-receivable-general-reports/ar-company-parameters"
+---
+
+# AR Company Parameters
+
+You can use the AR Company Parameters report to display
+ the AR Company Parameters set up values. You can access this report by selecting
+ Accounts Receivable > Reports > AP Company Parameters.
+Report Parameters
+Description
+Company
+Accept the default, or press F4 to select a company.
+
+Print Notes?
+checkbox to print notes.

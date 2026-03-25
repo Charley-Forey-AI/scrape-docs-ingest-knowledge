@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-03-25T16:26:17.393325+00:00",
+  "errors": [
+    {
+      "url": "https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-timecard-rate",
+      "menu_path": "/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-timecard-rate",
+      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-timecard-rate: HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-craftclass-rate",
+      "menu_path": "/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-craftclass-rate",
+      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-craftclass-rate: HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-highest-available-rate",
+      "menu_path": "/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-highest-available-rate",
+      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-highest-available-rate: HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/weighted-average-overtime-rates",
+      "menu_path": "/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/weighted-average-overtime-rates",
+      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/weighted-average-overtime-rates: HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/how-auto-overtime-works",
+      "menu_path": "/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/how-auto-overtime-works",
+      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/how-auto-overtime-works: HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/holiday-pay",
+      "menu_path": "/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/holiday-pay",
+      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/holiday-pay: HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://help.trimble.com/en/vista/vista/project-management/projects-and-contracts/projects/about-project-setup/about-adding-template-phases-to-a-project",
+      "menu_path": "/en/vista/vista/project-management/projects-and-contracts/projects/about-project-setup/about-adding-template-phases-to-a-project",
+      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/project-management/projects-and-contracts/projects/about-project-setup/about-adding-template-phases-to-a-project: HTTP Error 500: Internal Server Error"
+    }
+  ]
+}
