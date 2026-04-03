@@ -1,0 +1,10 @@
+---
+title: "Physical Inventory Exception Listing - Sample Report | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/materials/inventory-control/spectrum-menus-overview/data-entry-overview/physical-inventory-processing/physical-inventory-exception-listing/physical-inventory-exception-listing---sample-report"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
+menu_path: "/en/spectrum/spectrum/materials/inventory-control/spectrum-menus-overview/data-entry-overview/physical-inventory-processing/physical-inventory-exception-listing/physical-inventory-exception-listing---sample-report"
+---
+
+# Physical Inventory Exception Listing - Sample Report
+
+View the following sample report.

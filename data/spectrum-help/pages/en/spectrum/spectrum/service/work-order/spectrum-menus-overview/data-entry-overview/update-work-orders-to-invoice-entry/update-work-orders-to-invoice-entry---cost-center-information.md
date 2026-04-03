@@ -1,0 +1,15 @@
+---
+title: "Update Work Orders to Invoice Entry - Cost Center Information | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/update-work-orders-to-invoice-entry/update-work-orders-to-invoice-entry---cost-center-information"
+fetched_at: "2026-04-03T20:05:26.860879+00:00"
+menu_path: "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/update-work-orders-to-invoice-entry/update-work-orders-to-invoice-entry---cost-center-information"
+---
+
+# Update Work Orders to Invoice Entry - Cost Center Information
+
+If the cost center feature is enabled in the Enterprise Installation screen, Spectrum will assign the cost center from the job or work order site for the Accounts Receivable invoice header. The update will also assign the invoice header cost center to every detail invoice line, except in the case where there is a phase override cost center for material, labor, or other cost entry.
+Spectrum will check the work order type, and validate that a cost center exists for that job or site, depending on the work order type. (Operator security and cost center status are not validated so that previously entered work orders can be updated.) Labor cost of sales debit and credit accounts will also be validated. If the cost center isn't validated, then you will receive an error message when you initiate the transfer.
+For job work orders, if an Accounts Receivable contract record has not yet been created, Spectrum will validate that the job cost center is valid for the customer's list of cost centers. If this is the case, the update will create an Accounts Receivable contract during the transfer and it will assign the job cost center to the contract file.
+If an Accounts Receivable invoice is created for a service contract manufacturer (from the Service Contract module on a work order being transferred), then the site cost center will be assigned to the header and every detail line on the invoice.
+Spectrum will use the same validation rules when the Transfer flag is set to Yes for a work order in the paging area. If no cost center exists then an error message will display and the Transfer flag will be reset to blank.
+If the Work Order Installation option to use the work order # as the invoice # is selected, the invoice # will be used during the update. If the work order # cannot be used, then the entity-specific invoice will be used as follows. If the 'Use entity-specific numbering?' installation option is selected for this company, entity-specific invoice numbers used for Accounts Receivable invoices will read for the cost center to be assigned to the new invoice. If the cost center is assigned to the 'main company entity' (blank), then get the 'Next invoice number' from Accounts Receivable Installation. If an entity is associated with the cost center, then read the new Entity Invoice Number Table for the 'Next invoice number' to be assigned to invoices in that entity.

@@ -1,0 +1,21 @@
+---
+title: "Data Exchange Download | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/system-administration/administrator-utilities/data-exchange-download"
+fetched_at: "2026-04-03T20:43:54.261868+00:00"
+menu_path: "/en/spectrum/spectrum/system-administration/administrator-utilities/data-exchange-download"
+---
+
+# Data Exchange Download
+
+The Data Exchange Download screen allows the users of the Data Exchange module to get the latest version of the Spectrum Office Add-in which is used with Microsoft Excel and can be used in conjunction with the Data Exchange module.
+To use the Spectrum Office Add-in, the Data Exchange module must be active, the Authorization ID must be defined, and the Spectrum Office Add-in must be installed on your local computer. The Data Exchange Download screen provides easy access to the current programming which is provided with each service pack.
+Important: Each time a new release of Spectrum is installed, the Spectrum Office Add-in needs to be installed in order to have the current programming. To download the programming, define the Authorization ID, select the Export button, and follow the standard Spectrum download process.
+See the following guides for reference:
+
+- [Spectrum Office Add-in](https://trimble.deploy.heretto.com/v4/deployments/mVyHSMAo9PbkfqcxUBWF/object/9c1ae160-8ea8-11ec-9179-02420ae60f1a?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJodHRwczovL2pvcnNlay5jb20vZXpkX29yZ2FuaXphdGlvbiI6InZpZXdwb2ludCIsImh0dHBzOi8vam9yc2VrLmNvbS9lemQvb2JqZWN0X3V1aWQiOiI5YzFhZTE2MC04ZWE4LTExZWMtOTE3OS0wMjQyMGFlNjBmMWEiLCJleHAiOjE3NzUzMzI5MDksImp0aSI6IjFhNmI1Yzk3MTU5MDQ4NTZiMTVkN2VkNzViMjllYTI1IiwiaHR0cHM6Ly9qb3JzZWsuY29tL2V6ZF9maWxlc2V0IjoiOE1GRmpJZEw3ZEZLQmJiVGwxTXMifQ.TkIlzT88JFvKAOuDhVnJUoUdXr1eCa_CECUGqiw46yY&response-content-disposition=filename%3D%22SDX-SPECTRUM-OFFICE-ADDIN-2021R2.pdf%22)
+
+- [Authorization Setup](https://trimble.deploy.heretto.com/v4/deployments/mVyHSMAo9PbkfqcxUBWF/object/9bd043d0-8ea8-11ec-9179-02420ae60f1a?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJodHRwczovL2pvcnNlay5jb20vZXpkX29yZ2FuaXphdGlvbiI6InZpZXdwb2ludCIsImh0dHBzOi8vam9yc2VrLmNvbS9lemQvb2JqZWN0X3V1aWQiOiI5YmQwNDNkMC04ZWE4LTExZWMtOTE3OS0wMjQyMGFlNjBmMWEiLCJleHAiOjE3NzUzMzI5MDksImp0aSI6IjAxOWIwNzkyNThhZjRiZTRiOGFhY2JiOGNkNzcxODdhIiwiaHR0cHM6Ly9qb3JzZWsuY29tL2V6ZF9maWxlc2V0IjoiOE1GRmpJZEw3ZEZLQmJiVGwxTXMifQ.R430kj8lCB0OF-fNlw_85zNl9GswjpaDwZsKqaylEaE&response-content-disposition=filename%3D%22SDX-AUTHORIZATION-SETUP-2021R2.pdf%22)
+
+Related information
+
+- [Spectrum Data Exchange (SDX)](/en/spectrum/spectrum/tools/spectrum-data-exchange-sdx)

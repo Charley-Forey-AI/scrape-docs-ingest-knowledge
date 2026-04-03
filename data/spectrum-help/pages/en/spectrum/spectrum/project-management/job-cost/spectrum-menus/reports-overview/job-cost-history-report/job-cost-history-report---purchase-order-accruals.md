@@ -1,0 +1,16 @@
+---
+title: "Job Cost History Report - Purchase Order Accruals | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/project-management/job-cost/spectrum-menus/reports-overview/job-cost-history-report/job-cost-history-report---purchase-order-accruals"
+fetched_at: "2026-04-03T20:05:26.860879+00:00"
+menu_path: "/en/spectrum/spectrum/project-management/job-cost/spectrum-menus/reports-overview/job-cost-history-report/job-cost-history-report---purchase-order-accruals"
+---
+
+# Job Cost History Report - Purchase Order Accruals
+
+Spectrum now has the ability to accrue for materials received but not yet invoiced on job purchase orders. If the 'Update packing list to jobs before invoicing?' option was selected on the Purchase Order installation screen, this report will display the following on PO's that use this accrual method:
+
+- PO accruals display the quantity received and PO dollars received.
+
+- AP transactions display no quantity received nor PO dollar received.
+
+- AP transactions display the net true-up dollar amount.

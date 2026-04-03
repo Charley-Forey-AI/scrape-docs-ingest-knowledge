@@ -1,0 +1,8 @@
+---
+title: "Vendor Open Item / History - Sample Report | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-payable/spectrum-menus/reports-overview/vendor-lien-release-form/vendor-open-item--history---sample-report"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
+menu_path: "/en/spectrum/spectrum/accounting/accounts-payable/spectrum-menus/reports-overview/vendor-lien-release-form/vendor-open-item--history---sample-report"
+---
+
+# Vendor Open Item / History - Sample Report

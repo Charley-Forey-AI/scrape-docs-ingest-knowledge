@@ -1,40 +1,1425 @@
 {
-  "generated_at": "2026-03-25T16:26:17.393325+00:00",
+  "generated_at": "2026-04-03T18:55:34.656277+00:00",
   "errors": [
     {
-      "url": "https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-timecard-rate",
-      "menu_path": "/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-timecard-rate",
-      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-timecard-rate: HTTP Error 404: Not Found"
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-order-other-charges/work-order-other-charges-for-site-work-orders/work-order-other-charges-for-site-work-orders---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-order-other-charges/work-order-other-charges-for-site-work-orders/work-order-other-charges-for-site-work-orders---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-order-other-charges/work-order-other-charges-for-site-work-orders/work-order-other-charges-for-site-work-orders---field-descriptions: <urlopen error timed out>"
     },
     {
-      "url": "https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-craftclass-rate",
-      "menu_path": "/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-craftclass-rate",
-      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-craftclass-rate: HTTP Error 404: Not Found"
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-order-materials/work-order-materials-for-site-work-orders/bill-other-charges-from-cost-history",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-order-materials/work-order-materials-for-site-work-orders/bill-other-charges-from-cost-history",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-order-materials/work-order-materials-for-site-work-orders/bill-other-charges-from-cost-history: <urlopen error [Errno 11001] getaddrinfo failed>"
     },
     {
-      "url": "https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-highest-available-rate",
-      "menu_path": "/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-highest-available-rate",
-      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/set-automatic-overtime-to-use-the-highest-available-rate: HTTP Error 404: Not Found"
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-order-other-charges/work-order-other-charges-for-site-work-orders/edit-all-selected-transactions",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-order-other-charges/work-order-other-charges-for-site-work-orders/edit-all-selected-transactions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-order-other-charges/work-order-other-charges-for-site-work-orders/edit-all-selected-transactions: <urlopen error [Errno 11001] getaddrinfo failed>"
     },
     {
-      "url": "https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/weighted-average-overtime-rates",
-      "menu_path": "/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/weighted-average-overtime-rates",
-      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/weighted-average-overtime-rates: HTTP Error 404: Not Found"
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/maintenance-overview",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/maintenance-overview",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/maintenance-overview: <urlopen error [Errno 11001] getaddrinfo failed>"
     },
     {
-      "url": "https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/how-auto-overtime-works",
-      "menu_path": "/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/how-auto-overtime-works",
-      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/how-auto-overtime-works: HTTP Error 404: Not Found"
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/inquiries-overview",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/inquiries-overview",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/inquiries-overview: <urlopen error [Errno 11001] getaddrinfo failed>"
     },
     {
-      "url": "https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/holiday-pay",
-      "menu_path": "/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/holiday-pay",
-      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/hr-and-payroll/payroll/setupmaintenance/general/about-setting-up-automatic-overtime/holiday-pay: HTTP Error 404: Not Found"
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/reports-overview",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/reports-overview",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/reports-overview: <urlopen error [Errno 11001] getaddrinfo failed>"
     },
     {
-      "url": "https://help.trimble.com/en/vista/vista/project-management/projects-and-contracts/projects/about-project-setup/about-adding-template-phases-to-a-project",
-      "menu_path": "/en/vista/vista/project-management/projects-and-contracts/projects/about-project-setup/about-adding-template-phases-to-a-project",
-      "error": "Failed to fetch https://help.trimble.com/en/vista/vista/project-management/projects-and-contracts/projects/about-project-setup/about-adding-template-phases-to-a-project: HTTP Error 500: Internal Server Error"
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/period-end-overview",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/period-end-overview",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/period-end-overview: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/maintenance-overview/p.o.-user-defined-fields-maintenance/p.o.-user-defined-fields-purge/p.o.-user-defined-fields-purge---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/maintenance-overview/p.o.-user-defined-fields-maintenance/p.o.-user-defined-fields-purge/p.o.-user-defined-fields-purge---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/maintenance-overview/p.o.-user-defined-fields-maintenance/p.o.-user-defined-fields-purge/p.o.-user-defined-fields-purge---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/import-purchase-orders-from-text-file",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/import-purchase-orders-from-text-file",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/import-purchase-orders-from-text-file: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/packing-list-quantity-entry",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/packing-list-quantity-entry",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/packing-list-quantity-entry: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/po-processing-date-change",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/po-processing-date-change",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/po-processing-date-change: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/p.o.-receiving-import",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/p.o.-receiving-import",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/p.o.-receiving-import: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-payable/spectrum-menus/about-vendors/vendor-invoice-entry",
+      "menu_path": "/en/spectrum/spectrum/accounting/accounts-payable/spectrum-menus/about-vendors/vendor-invoice-entry",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-payable/spectrum-menus/about-vendors/vendor-invoice-entry: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/purchase-order-entry---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/purchase-order-entry---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/purchase-order-entry---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/creating-purchase-order-revisions",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/creating-purchase-order-revisions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/creating-purchase-order-revisions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/integrating-purchases-with-a-work-order",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/integrating-purchases-with-a-work-order",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/integrating-purchases-with-a-work-order: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/issuing-a-lump-sum-purchase-order",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/issuing-a-lump-sum-purchase-order",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/issuing-a-lump-sum-purchase-order: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/reopen-a-closed-purchase-order",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/reopen-a-closed-purchase-order",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/reopen-a-closed-purchase-order: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/accruing-job-purchase-orders",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/accruing-job-purchase-orders",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/accruing-job-purchase-orders: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/purchase-order-entry---cost-center-field-hierarchy",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/purchase-order-entry---cost-center-field-hierarchy",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/purchase-order-entry/purchase-order-entry---cost-center-field-hierarchy: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/packing-list-quantity-entry/packing-list-update",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/packing-list-quantity-entry/packing-list-update",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/packing-list-quantity-entry/packing-list-update: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/release-schedule-entry/schedule-a-release-for-an-existing-purchase-order",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/release-schedule-entry/schedule-a-release-for-an-existing-purchase-order",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/release-schedule-entry/schedule-a-release-for-an-existing-purchase-order: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/release-schedule-entry/receiving-on-a-release",
+      "menu_path": "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/release-schedule-entry/receiving-on-a-release",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/release-schedule-entry/receiving-on-a-release: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/getting-started/spectrum-interface-faqs/user-interface-elements/spectrum-menus",
+      "menu_path": "/en/spectrum/spectrum/getting-started/spectrum-interface-faqs/user-interface-elements/spectrum-menus",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/getting-started/spectrum-interface-faqs/user-interface-elements/spectrum-menus: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/getting-started/spectrum-interface-faqs/user-interface-elements/notes/add-a-note",
+      "menu_path": "/en/spectrum/spectrum/getting-started/spectrum-interface-faqs/user-interface-elements/notes/add-a-note",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/getting-started/spectrum-interface-faqs/user-interface-elements/notes/add-a-note: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sites-menu/site-related-jobs/site-related-jobs---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sites-menu/site-related-jobs/site-related-jobs---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sites-menu/site-related-jobs/site-related-jobs---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/work-orders/work-order-financial-summary/create-ar-invoice/create-ar-invoice---view-vat-processing-information",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/work-orders/work-order-financial-summary/create-ar-invoice/create-ar-invoice---view-vat-processing-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/work-orders/work-order-financial-summary/create-ar-invoice/create-ar-invoice---view-vat-processing-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-receivable/spectrum-menus/inquiries-overview",
+      "menu_path": "/en/spectrum/spectrum/accounting/accounts-receivable/spectrum-menus/inquiries-overview",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-receivable/spectrum-menus/inquiries-overview: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-receivable/spectrum-menus/inquiries-overview/customer-invoice-inquiry/customer-invoice-inquiry---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/accounting/accounts-receivable/spectrum-menus/inquiries-overview/customer-invoice-inquiry/customer-invoice-inquiry---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-receivable/spectrum-menus/inquiries-overview/customer-invoice-inquiry/customer-invoice-inquiry---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-receivable/spectrum-menus/inquiries-overview/accounts-receivable-invoice-inquiry/accounts-receivable-invoice-inquiry---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/accounting/accounts-receivable/spectrum-menus/inquiries-overview/accounts-receivable-invoice-inquiry/accounts-receivable-invoice-inquiry---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-receivable/spectrum-menus/inquiries-overview/accounts-receivable-invoice-inquiry/accounts-receivable-invoice-inquiry---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/work-orders/material-cost-flow-for-direct-work-order-costs",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/work-orders/material-cost-flow-for-direct-work-order-costs",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/work-orders/material-cost-flow-for-direct-work-order-costs: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/work-orders/work-order-financial-summary/create-ar-invoice/create-ar-invoice---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/work-orders/work-order-financial-summary/create-ar-invoice/create-ar-invoice---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/work-orders/work-order-financial-summary/create-ar-invoice/create-ar-invoice---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/finished-work-order-form/flow-chart-of-other-charges-costs",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/finished-work-order-form/flow-chart-of-other-charges-costs",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/finished-work-order-form/flow-chart-of-other-charges-costs: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/update-work-orders-to-invoice-entry/update-work-orders-to-invoice-entry---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/update-work-orders-to-invoice-entry/update-work-orders-to-invoice-entry---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/update-work-orders-to-invoice-entry/update-work-orders-to-invoice-entry---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/in-depth-overview/material-costing-on-site-work-orders",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/in-depth-overview/material-costing-on-site-work-orders",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/in-depth-overview/material-costing-on-site-work-orders: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/in-depth-overview/deciding-which-dispatch-screen-to-use",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/in-depth-overview/deciding-which-dispatch-screen-to-use",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/in-depth-overview/deciding-which-dispatch-screen-to-use: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/update-other-charges-to-job-cost/update-other-charges-to-job-cost---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/update-other-charges-to-job-cost/update-other-charges-to-job-cost---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/update-other-charges-to-job-cost/update-other-charges-to-job-cost---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/update-work-orders-to-invoice-entry/update-work-orders-to-invoice-entry---update-details",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/update-work-orders-to-invoice-entry/update-work-orders-to-invoice-entry---update-details",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/update-work-orders-to-invoice-entry/update-work-orders-to-invoice-entry---update-details: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/reverse-work-order-billing/reverse-work-order-billing---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/reverse-work-order-billing/reverse-work-order-billing---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/reverse-work-order-billing/reverse-work-order-billing---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/reverse-work-order-billing/reverse-work-order-billing---sample-report",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/reverse-work-order-billing/reverse-work-order-billing---sample-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/reverse-work-order-billing/reverse-work-order-billing---sample-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/warranty-management/new-components",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/warranty-management/new-components",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/warranty-management/new-components: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/accounting/payroll/inquiries-overview/employee-earnings-history/time-card-history-inquiry",
+      "menu_path": "/en/spectrum/spectrum/accounting/payroll/inquiries-overview/employee-earnings-history/time-card-history-inquiry",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/accounting/payroll/inquiries-overview/employee-earnings-history/time-card-history-inquiry: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-profitability-report/work-order-profitability-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-profitability-report/work-order-profitability-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-profitability-report/work-order-profitability-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-profitability-report/standard-cost-profitability-report",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-profitability-report/standard-cost-profitability-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-profitability-report/standard-cost-profitability-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-profitability-report/work-order-profitability-report",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-profitability-report/work-order-profitability-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-profitability-report/work-order-profitability-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-overunder-billing-report",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-overunder-billing-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-overunder-billing-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-revenue-and-cost-report",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-revenue-and-cost-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-revenue-and-cost-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-budget-variance-report",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-budget-variance-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-budget-variance-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/other-charges-transaction-report/other-charges-transaction-report---sample-report",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/other-charges-transaction-report/other-charges-transaction-report---sample-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/other-charges-transaction-report/other-charges-transaction-report---sample-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/dispatch-listing/dispatch-listing---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/dispatch-listing/dispatch-listing---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/dispatch-listing/dispatch-listing---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/dispatch-listing---technician--scheduled-start-sample-report",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/dispatch-listing---technician--scheduled-start-sample-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/dispatch-listing---technician--scheduled-start-sample-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/dispatch-listing---technician--work-order--sample-report",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/dispatch-listing---technician--work-order--sample-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/dispatch-listing---technician--work-order--sample-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/dispatch-listing---work-order-",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/dispatch-listing---work-order-",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/dispatch-listing---work-order-: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/site-file-listing/summary-site-file-listing",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/site-file-listing/summary-site-file-listing",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/site-file-listing/summary-site-file-listing: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/site-file-listing/detail-site-file-listing",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/site-file-listing/detail-site-file-listing",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/site-file-listing/detail-site-file-listing: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/inquiries-overview/site-equipment/summary-site-equipment-listing",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/inquiries-overview/site-equipment/summary-site-equipment-listing",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/inquiries-overview/site-equipment/summary-site-equipment-listing: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-cost-history-report/work-order-cost-history-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-cost-history-report/work-order-cost-history-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-cost-history-report/work-order-cost-history-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-billing-history-report/work-order-billing-history-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-billing-history-report/work-order-billing-history-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-billing-history-report/work-order-billing-history-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-history-report/work-order-history-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-history-report/work-order-history-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-history-report/work-order-history-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-cost-history-report/work-order-cost-history-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-cost-history-report/work-order-cost-history-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-cost-history-report/work-order-cost-history-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-cost-history-report",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-cost-history-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-cost-history-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-cost-history-report---sorted-by-gl-date",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-cost-history-report---sorted-by-gl-date",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-cost-history-report---sorted-by-gl-date: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-billing-history-report/work-order-billing-history-report---sample-report",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-billing-history-report/work-order-billing-history-report---sample-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-billing-history-report/work-order-billing-history-report---sample-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-equipment-history-report/work-order-equipment-history-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-equipment-history-report/work-order-equipment-history-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-equipment-history-report/work-order-equipment-history-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-equipment-history-report---summary",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-equipment-history-report---summary",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-equipment-history-report---summary: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-equipment-history-report---billing-detail",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-equipment-history-report---billing-detail",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-equipment-history-report---billing-detail: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-equipment-history-report---actual-cost-detail",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-equipment-history-report---actual-cost-detail",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-equipment-history-report---actual-cost-detail: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-report/work-order-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-report/work-order-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-report/work-order-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-history-report---labor",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-history-report---labor",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-history-report---labor: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-history-report---material",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-history-report---material",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-history-report---material: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-history-report---other-charges",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-history-report---other-charges",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-history-report/work-order-history-report---other-charges: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-profitability-report/standard-cost-profitability-report/standard-cost-profitability-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-profitability-report/standard-cost-profitability-report/standard-cost-profitability-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-profitability-report/standard-cost-profitability-report/standard-cost-profitability-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-report/work-order-report-sorted-by-entered-date",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-report/work-order-report-sorted-by-entered-date",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-report/work-order-report-sorted-by-entered-date: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-report/work-order-report-sorted-by-estimated-complete-date",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-report/work-order-report-sorted-by-estimated-complete-date",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-report/work-order-report-sorted-by-estimated-complete-date: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-report/work-order-report-sorted-by-work-order",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-report/work-order-report-sorted-by-work-order",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-report/work-order-report-sorted-by-work-order: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-report/work-order-report-sorted-by-technician",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-report/work-order-report-sorted-by-technician",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/sample-reports-overview/work-order-report/work-order-report-sorted-by-technician: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contracts---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contracts---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contracts---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-main-properties",
+      "menu_path": "/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-main-properties",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-main-properties: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-covered-equipment",
+      "menu_path": "/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-covered-equipment",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-covered-equipment: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-visits",
+      "menu_path": "/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-visits",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-visits: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-earned-revenue",
+      "menu_path": "/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-earned-revenue",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-earned-revenue: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-work-order-revenue",
+      "menu_path": "/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-work-order-revenue",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-work-order-revenue: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-form",
+      "menu_path": "/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-form",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-form: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-cost-history-report",
+      "menu_path": "/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-cost-history-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/service-contracts/spectrum-menus-overview/maintenance-overview/service-contracts/service-contract-cost-history-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/getting-started/understanding-user-defined-fields/user-defined-fields---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/getting-started/understanding-user-defined-fields/user-defined-fields---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/getting-started/understanding-user-defined-fields/user-defined-fields---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/getting-started/understanding-user-defined-fields/deleting-user-defined-fields",
+      "menu_path": "/en/spectrum/spectrum/getting-started/understanding-user-defined-fields/deleting-user-defined-fields",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/getting-started/understanding-user-defined-fields/deleting-user-defined-fields: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/getting-started/understanding-user-defined-fields/move-upmove-down",
+      "menu_path": "/en/spectrum/spectrum/getting-started/understanding-user-defined-fields/move-upmove-down",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/getting-started/understanding-user-defined-fields/move-upmove-down: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/field-tech/servicefield-tech-installation/service-tech-installation",
+      "menu_path": "/en/spectrum/spectrum/service/field-tech/servicefield-tech-installation/service-tech-installation",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/field-tech/servicefield-tech-installation/service-tech-installation: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/field-tech/truck-stock-manager/truck-stock-manager---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/field-tech/truck-stock-manager/truck-stock-manager---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/field-tech/truck-stock-manager/truck-stock-manager---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-main---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-main---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-main---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/field-tech-work-map",
+      "menu_path": "/en/spectrum/spectrum/service/field-tech/work-order-main/field-tech-work-map",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/field-tech-work-map: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-notes",
+      "menu_path": "/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-notes",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-notes: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-labor",
+      "menu_path": "/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-labor",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-labor: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-material",
+      "menu_path": "/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-material",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-material: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/other-charges",
+      "menu_path": "/en/spectrum/spectrum/service/field-tech/work-order-main/other-charges",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/other-charges: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/user-defined-fields",
+      "menu_path": "/en/spectrum/spectrum/service/field-tech/work-order-main/user-defined-fields",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/user-defined-fields: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/purchase-orders",
+      "menu_path": "/en/spectrum/spectrum/service/field-tech/work-order-main/purchase-orders",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/purchase-orders: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-equipment",
+      "menu_path": "/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-equipment",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-equipment: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-history",
+      "menu_path": "/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-history",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/field-tech/work-order-main/work-order-history: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/field-tech/field-tech-time-entry/field-tech-time-entry---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/service/field-tech/field-tech-time-entry/field-tech-time-entry---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/field-tech/field-tech-time-entry/field-tech-time-entry---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/equipment-control-installation-overview/equipment-control-installation---gl-codes/multi-company-processing-in-ec",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/equipment-control-installation-overview/equipment-control-installation---gl-codes/multi-company-processing-in-ec",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/equipment-control-installation-overview/equipment-control-installation---gl-codes/multi-company-processing-in-ec: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/equipment-control-installation-overview/equipment-control-data-conversion",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/equipment-control-installation-overview/equipment-control-data-conversion",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/equipment-control-installation-overview/equipment-control-data-conversion: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/agency--state-file-maintenance",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/agency--state-file-maintenance",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/agency--state-file-maintenance: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/attribute-file-maintenance",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/attribute-file-maintenance",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/attribute-file-maintenance: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-type-budget-costs",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-type-budget-costs",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-type-budget-costs: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/component-file-maintenance",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/component-file-maintenance",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/component-file-maintenance: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/component-user-defined-fields",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/component-user-defined-fields",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/component-user-defined-fields: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-components",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-components",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-components: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-user-defined-fields",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-user-defined-fields",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-user-defined-fields: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/job-specific-equipment-charge-rates",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/job-specific-equipment-charge-rates",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/job-specific-equipment-charge-rates: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/make-file-maintenance",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/make-file-maintenance",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/make-file-maintenance: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/model-file-maintenance",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/model-file-maintenance",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/model-file-maintenance: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/statistics-user-defined-fields",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/statistics-user-defined-fields",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/statistics-user-defined-fields: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/statistic-code-file-maintenance",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/statistic-code-file-maintenance",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/statistic-code-file-maintenance: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/tire-file-maintenance",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/tire-file-maintenance",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/tire-file-maintenance: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/warrantor-file-maintenance",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/warrantor-file-maintenance",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/warrantor-file-maintenance: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/warranty-type-file-maintenance",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/warranty-type-file-maintenance",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/warranty-type-file-maintenance: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/weight-class-file-maintenance",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/weight-class-file-maintenance",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/weight-class-file-maintenance: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-warranty",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-warranty",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-warranty: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-warranty/equipment-warranty---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-warranty/equipment-warranty---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-warranty/equipment-warranty---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-warranty/tracking-warranty-expiration-dates/tracking-warranty-expiration-dates---part-a--setup",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-warranty/tracking-warranty-expiration-dates/tracking-warranty-expiration-dates---part-a--setup",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-warranty/tracking-warranty-expiration-dates/tracking-warranty-expiration-dates---part-a--setup: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/job-specific-equipment-charge-rates/update-job-rates-from-standard-charge",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/job-specific-equipment-charge-rates/update-job-rates-from-standard-charge",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/job-specific-equipment-charge-rates/update-job-rates-from-standard-charge: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/job-specific-equipment-charge-rates/update-job-rates-from-standard-charge/update-job-rates-from-standard-charge---example",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/job-specific-equipment-charge-rates/update-job-rates-from-standard-charge/update-job-rates-from-standard-charge---example",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/job-specific-equipment-charge-rates/update-job-rates-from-standard-charge/update-job-rates-from-standard-charge---example: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-type-file-maintenance/equipment-type-file-listing/equipment-type-file-listing",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-type-file-maintenance/equipment-type-file-listing/equipment-type-file-listing",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-type-file-maintenance/equipment-type-file-listing/equipment-type-file-listing: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-type-file-maintenance/equipment-type-file-listing/detail-equipment-type-file-listing",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-type-file-maintenance/equipment-type-file-listing/detail-equipment-type-file-listing",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-type-file-maintenance/equipment-type-file-listing/detail-equipment-type-file-listing: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/cost-category-file-maintenance/cost-category-file-maintenance---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/cost-category-file-maintenance/cost-category-file-maintenance---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/cost-category-file-maintenance/cost-category-file-maintenance---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/cost-category-file-maintenance/cost-category-file-listing/cost-category-file-listing---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/cost-category-file-maintenance/cost-category-file-listing/cost-category-file-listing---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/cost-category-file-maintenance/cost-category-file-listing/cost-category-file-listing---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-area-file-maintenance/equipment-area-file-listing",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-area-file-maintenance/equipment-area-file-listing",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-area-file-maintenance/equipment-area-file-listing: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/yard-file-maintenance/yard-file-listing---sample-report",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/yard-file-maintenance/yard-file-listing---sample-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/yard-file-maintenance/yard-file-listing---sample-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/cost-category-file-maintenance/cost-category-file-listing/cost-category-file-listing---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/cost-category-file-maintenance/cost-category-file-listing/cost-category-file-listing---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/cost-category-file-maintenance/cost-category-file-listing/cost-category-file-listing---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-attributes",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-attributes",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-attributes: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-attributes/equipment-attributes---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-attributes/equipment-attributes---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-attributes/equipment-attributes---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/job-specific-equipment-charge-rates/new-job-specific-equipment-rates",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/job-specific-equipment-charge-rates/new-job-specific-equipment-rates",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/job-specific-equipment-charge-rates/new-job-specific-equipment-rates: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-type-budget-costs/update-charge-rates-from-budget-cost",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-type-budget-costs/update-charge-rates-from-budget-cost",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment-type-budget-costs/update-charge-rates-from-budget-cost: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/cost-transaction-entry---ec---cost-field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/cost-transaction-entry---ec---cost-field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/cost-transaction-entry---ec---cost-field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/revenue-transaction-entry/transaction-entry-by-equipment-usage---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/revenue-transaction-entry/transaction-entry-by-equipment-usage---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/revenue-transaction-entry/transaction-entry-by-equipment-usage---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/transaction-report--update/transaction-report--update---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/transaction-report--update/transaction-report--update---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/transaction-report--update/transaction-report--update---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/transaction-report--update/equipment-control-transaction-report",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/transaction-report--update/equipment-control-transaction-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/transaction-report--update/equipment-control-transaction-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/transaction-report--update/transaction-update",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/transaction-report--update/transaction-update",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/transaction-report--update/transaction-update: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/import-meter-readings-from-text-file/file-layout",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/import-meter-readings-from-text-file/file-layout",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/import-meter-readings-from-text-file/file-layout: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/gl-detail-report/gl-detail-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/gl-detail-report/gl-detail-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/gl-detail-report/gl-detail-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/gl-detail-report/gl-detail-update",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/gl-detail-report/gl-detail-update",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/gl-detail-report/gl-detail-update: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/validation",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/validation",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/validation: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/equipment-statistics",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/equipment-statistics",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/equipment-statistics: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/transfer-component-to-other-equipment",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/transfer-component-to-other-equipment",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/transfer-component-to-other-equipment: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/ec-processing-date-change",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/ec-processing-date-change",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/ec-processing-date-change: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/revenue-transaction-entry/revenue-transaction-entry---eu---usage-field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/revenue-transaction-entry/revenue-transaction-entry---eu---usage-field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/revenue-transaction-entry/revenue-transaction-entry---eu---usage-field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-entry---es---standby-field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-entry---es---standby-field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-entry---es---standby-field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-report/recurring-transaction-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-report/recurring-transaction-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-report/recurring-transaction-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-report/recurring-equipment-transaction---job",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-report/recurring-equipment-transaction---job",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-report/recurring-equipment-transaction---job: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-report/recurring-equipment-transaction---equipment",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-report/recurring-equipment-transaction---equipment",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-report/recurring-equipment-transaction---equipment: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-report/recurring-equipment-transaction---equipment_1",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-report/recurring-equipment-transaction---equipment_1",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/data-entry-overview/recurring-transaction-entry/recurring-transaction-report/recurring-equipment-transaction---equipment_1: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/meter-reading-transaction-entry/replace-meter/replace-meter---examples",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/meter-reading-transaction-entry/replace-meter/replace-meter---examples",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/meter-reading-transaction-entry/replace-meter/replace-meter---examples: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-entry---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-entry---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-entry---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-gl-register/ownership-cost-gl-register---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-gl-register/ownership-cost-gl-register---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-gl-register/ownership-cost-gl-register---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-journal/ownership-cost-journal---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-journal/ownership-cost-journal---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-journal/ownership-cost-journal---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-journal/ownership-cost-journalupdate---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-journal/ownership-cost-journalupdate---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-journal/ownership-cost-journalupdate---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-entry---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-entry---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/ownership-cost-entry/ownership-cost-entry---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/import-equipment-costs-from-text-file/import-equipment-costs-from-text-file---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/import-equipment-costs-from-text-file/import-equipment-costs-from-text-file---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/import-equipment-costs-from-text-file/import-equipment-costs-from-text-file---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/cost-transaction-entry-by-payroll---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/cost-transaction-entry-by-payroll---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/cost-transaction-entry-by-payroll---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/import-meter-readings-from-text-file/import-meter-readings-from-text-file---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/import-meter-readings-from-text-file/import-meter-readings-from-text-file---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/import-meter-readings-from-text-file/import-meter-readings-from-text-file---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/in-depth-overview",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/in-depth-overview",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/in-depth-overview: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/in-depth-overview/understanding-how-meter-readings-are-updated",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/in-depth-overview/understanding-how-meter-readings-are-updated",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/in-depth-overview/understanding-how-meter-readings-are-updated: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-components/build-standard-components-for-type",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-components/build-standard-components-for-type",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-components/build-standard-components-for-type: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-ownership-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-ownership-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-ownership-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/transaction-entry-by-accounts-payable---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/transaction-entry-by-accounts-payable---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/cost-transaction-entry/transaction-entry-by-accounts-payable---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/meter-reading-transaction-entry/meter-readings/meter-readings---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/meter-reading-transaction-entry/meter-readings/meter-readings---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/meter-reading-transaction-entry/meter-readings/meter-readings---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/meter-reading-transaction-entry/new-base-meter-reading/new-base-meter-reading---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/meter-reading-transaction-entry/new-base-meter-reading/new-base-meter-reading---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/meter-reading-transaction-entry/new-base-meter-reading/new-base-meter-reading---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/inquiries-overview/component-group-cost-inquiry/component-group-cost-inquiry---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/inquiries-overview/component-group-cost-inquiry/component-group-cost-inquiry---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/inquiries-overview/component-group-cost-inquiry/component-group-cost-inquiry---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/inquiries-overview/component-group-cost-inquiry/summary-cost-inquiry-by-cost-category---current",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/inquiries-overview/component-group-cost-inquiry/summary-cost-inquiry-by-cost-category---current",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/inquiries-overview/component-group-cost-inquiry/summary-cost-inquiry-by-cost-category---current: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/inquiries-overview/component-group-cost-inquiry/summary-cost-inquiry-by-cost-category---life-to-date",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/inquiries-overview/component-group-cost-inquiry/summary-cost-inquiry-by-cost-category---life-to-date",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/inquiries-overview/component-group-cost-inquiry/summary-cost-inquiry-by-cost-category---life-to-date: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-user-defined-fields/equipment-user-defined-fields---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-user-defined-fields/equipment-user-defined-fields---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-user-defined-fields/equipment-user-defined-fields---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-financial-summary/equipment-financial-summary---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-financial-summary/equipment-financial-summary---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-financial-summary/equipment-financial-summary---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-financial-summary/equipment-financial-summary---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-financial-summary/equipment-financial-summary---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-financial-summary/equipment-financial-summary---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-cost-history/equipment-cost-history---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-cost-history/equipment-cost-history---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-cost-history/equipment-cost-history---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-compliance/equipment-compliance---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-compliance/equipment-compliance---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-compliance/equipment-compliance---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-compliance/new-equipment-compliance-code",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-compliance/new-equipment-compliance-code",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-compliance/new-equipment-compliance-code: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-compliance/renew-equipment-license",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-compliance/renew-equipment-license",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-compliance/renew-equipment-license: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-unit-cost-report/equipment-unit-cost-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-unit-cost-report/equipment-unit-cost-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-unit-cost-report/equipment-unit-cost-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-unit-cost-report/equipment-unit-cost-report",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-unit-cost-report/equipment-unit-cost-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-unit-cost-report/equipment-unit-cost-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel--oil-report/fuel--oil-report---calculations",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel--oil-report/fuel--oil-report---calculations",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel--oil-report/fuel--oil-report---calculations: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-off-road-by-equipment-code",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-off-road-by-equipment-code",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-off-road-by-equipment-code: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-off-road-by-equipment-type",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-off-road-by-equipment-type",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-off-road-by-equipment-type: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-on-road-by-equipment-code",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-on-road-by-equipment-code",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-on-road-by-equipment-code: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-on-road-by-equipment-type",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-on-road-by-equipment-type",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/diesel-report/diesel-on-road-by-equipment-type: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-compliance-report/equipment-compliance-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-compliance-report/equipment-compliance-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-compliance-report/equipment-compliance-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-cost-history-report/equipment-cost-history-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-cost-history-report/equipment-cost-history-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-cost-history-report/equipment-cost-history-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/equipment-cost-history-report",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/equipment-cost-history-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/equipment-cost-history-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/equipment-cost-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/equipment-cost-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/equipment-cost-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/detail-equipment-cost-by-equipment-code",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/detail-equipment-cost-by-equipment-code",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/detail-equipment-cost-by-equipment-code: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/detail-equipment-cost-by-equipment-type",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/detail-equipment-cost-by-equipment-type",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/detail-equipment-cost-by-equipment-type: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/summary-equipment-cost-by-equipment-code",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/summary-equipment-cost-by-equipment-code",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/summary-equipment-cost-by-equipment-code: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/summary-equipment-cost-by-equipment-type",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/summary-equipment-cost-by-equipment-type",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-cost-report/summary-equipment-cost-by-equipment-type: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-utilization-report/equipment-utilization-report-calculations",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-utilization-report/equipment-utilization-report-calculations",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-utilization-report/equipment-utilization-report-calculations: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-meter-reading-history-report/equipment-meter-reading-history-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-meter-reading-history-report/equipment-meter-reading-history-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-meter-reading-history-report/equipment-meter-reading-history-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-meter-reading-history-report/equipment-meter-reading-history-report",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-meter-reading-history-report/equipment-meter-reading-history-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-meter-reading-history-report/equipment-meter-reading-history-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-file-listing/equipment-file-listing---summary",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-file-listing/equipment-file-listing---summary",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-file-listing/equipment-file-listing---summary: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-revenue-history-report/equipment-revenue-history-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-revenue-history-report/equipment-revenue-history-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-revenue-history-report/equipment-revenue-history-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-history",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-history",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-history: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-report-sorted-by-equipment-code",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-report-sorted-by-equipment-code",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-report-sorted-by-equipment-code: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-report-sorted-by-equipment-type",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-report-sorted-by-equipment-type",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-report-sorted-by-equipment-type: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-report-sorted-by-equipment-division",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-report-sorted-by-equipment-division",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/equipment-revenue-report-sorted-by-equipment-division: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-chargeable-report/equipment-chargeable-report-calculations",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-chargeable-report/equipment-chargeable-report-calculations",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-chargeable-report/equipment-chargeable-report-calculations: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-utilization-report/equipment-utilization-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-utilization-report/equipment-utilization-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-utilization-report/equipment-utilization-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-utilization-report/equipment-utilization-report---sample-report",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-utilization-report/equipment-utilization-report---sample-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-utilization-report/equipment-utilization-report---sample-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-unit-cost-report/equipment-unit-cost-report/equipment-unit-cost-report---report-calculations",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-unit-cost-report/equipment-unit-cost-report/equipment-unit-cost-report---report-calculations",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-unit-cost-report/equipment-unit-cost-report/equipment-unit-cost-report---report-calculations: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel--oil-report/fuel--oil-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel--oil-report/fuel--oil-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel--oil-report/fuel--oil-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel--oil-report/fuel--oil-report-by-equipment-type",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel--oil-report/fuel--oil-report-by-equipment-type",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel--oil-report/fuel--oil-report-by-equipment-type: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel--oil-report/fuel--oil-report-by-equipment-code",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel--oil-report/fuel--oil-report-by-equipment-code",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel--oil-report/fuel--oil-report-by-equipment-code: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel-utilization-report/fuel-utilization-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel-utilization-report/fuel-utilization-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel-utilization-report/fuel-utilization-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel-utilization-report/fuel-utilization-report-summary-by-job",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel-utilization-report/fuel-utilization-report-summary-by-job",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel-utilization-report/fuel-utilization-report-summary-by-job: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel-utilization-report/fuel-utilization-report-detail-by-equipment",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel-utilization-report/fuel-utilization-report-detail-by-equipment",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel-utilization-report/fuel-utilization-report-detail-by-equipment: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel-utilization-report/fuel-utilization-report-detail-by-fuel-truck",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel-utilization-report/fuel-utilization-report-detail-by-fuel-truck",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/fuel-utilization-report/fuel-utilization-report-detail-by-fuel-truck: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/ec-gl-distribution-report/equipment-control-gl-distribution",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/ec-gl-distribution-report/equipment-control-gl-distribution",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/ec-gl-distribution-report/equipment-control-gl-distribution: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/ec-gl-distribution-report/ec-gl-distribution-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/ec-gl-distribution-report/ec-gl-distribution-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/ec-gl-distribution-report/ec-gl-distribution-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-revenue-history-report/equipment-revenue-history-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-revenue-history-report/equipment-revenue-history-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-revenue-history-report/equipment-revenue-history-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/warranty-expiration-report/warranty-expiration-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/warranty-expiration-report/warranty-expiration-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/warranty-expiration-report/warranty-expiration-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/warranty-expiration-report",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/warranty-expiration-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/reports-overview/equipment-revenue-report/warranty-expiration-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/procedures-overview",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/procedures-overview",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/procedures-overview: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/procedures-overview/procedures-as-required",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/procedures-overview/procedures-as-required",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/procedures-overview/procedures-as-required: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/sample-reports-overview/equipment-revenue-run-log-edit-listing_1",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/sample-reports-overview/equipment-revenue-run-log-edit-listing_1",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/sample-reports-overview/equipment-revenue-run-log-edit-listing_1: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/troubleshooting/frequently-asked-questions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/troubleshooting/frequently-asked-questions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/troubleshooting/frequently-asked-questions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/troubleshooting/common-error-messages",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-control/troubleshooting/common-error-messages",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/troubleshooting/common-error-messages: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/equipment-tracking-installation/equipment-tracking-data-conversion",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/equipment-tracking-installation/equipment-tracking-data-conversion",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/equipment-tracking-installation/equipment-tracking-data-conversion: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/equipment-tracking-installation/equipment-rate-hierarchy",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/equipment-tracking-installation/equipment-rate-hierarchy",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/equipment-tracking-installation/equipment-rate-hierarchy: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/maintenance-overview/requisition-user-defined-fields-maintenance",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/maintenance-overview/requisition-user-defined-fields-maintenance",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/maintenance-overview/requisition-user-defined-fields-maintenance: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/maintenance-overview/meter-replacement",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/maintenance-overview/meter-replacement",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/maintenance-overview/meter-replacement: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/data-entry-overview/equipment-tracking-requisition",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/data-entry-overview/equipment-tracking-requisition",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/data-entry-overview/equipment-tracking-requisition: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/data-entry-overview/et-processing-date-change",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/data-entry-overview/et-processing-date-change",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/data-entry-overview/et-processing-date-change: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/data-entry-overview/equipment-tracking-requisition/equipment-tracking-requisition---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/data-entry-overview/equipment-tracking-requisition/equipment-tracking-requisition---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/data-entry-overview/equipment-tracking-requisition/equipment-tracking-requisition---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/data-entry-overview/recurring-equipment-charge-processing/recurring-equipment-charge-processing---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/data-entry-overview/recurring-equipment-charge-processing/recurring-equipment-charge-processing---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/data-entry-overview/recurring-equipment-charge-processing/recurring-equipment-charge-processing---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/period-end-overview",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/period-end-overview",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/period-end-overview: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/reports-overview/deployment-log-report/deployment-log-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/reports-overview/deployment-log-report/deployment-log-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/reports-overview/deployment-log-report/deployment-log-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/reports-overview/requisition-history-report/requisition-history-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/reports-overview/requisition-history-report/requisition-history-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/spectrum-menus/reports-overview/requisition-history-report/requisition-history-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/troubleshooting/common-error-messages",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/troubleshooting/common-error-messages",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/troubleshooting/common-error-messages: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/troubleshooting/common-warning-messages",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/troubleshooting/common-warning-messages",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/troubleshooting/common-warning-messages: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/troubleshooting/common-warning-messages/warning---job-entered-has-an-inactive-status.",
+      "menu_path": "/en/spectrum/spectrum/equipment/equipment-tracking/troubleshooting/common-warning-messages/warning---job-entered-has-an-inactive-status.",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-tracking/troubleshooting/common-warning-messages/warning---job-entered-has-an-inactive-status.: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/p.m.-schedule/p.m.-tasks-performed-information---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/p.m.-schedule/p.m.-tasks-performed-information---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/p.m.-schedule/p.m.-tasks-performed-information---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/work-order-user-defined-fields-maintenance/user-defined-fields-maintenance-overview/w.o.-detail-user-defined-fields",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/work-order-user-defined-fields-maintenance/user-defined-fields-maintenance-overview/w.o.-detail-user-defined-fields",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/work-order-user-defined-fields-maintenance/user-defined-fields-maintenance-overview/w.o.-detail-user-defined-fields: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-orders/work-order-form/note-topics-window",
+      "menu_path": "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-orders/work-order-form/note-topics-window",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-orders/work-order-form/note-topics-window: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/work-order-user-defined-fields-maintenance",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/work-order-user-defined-fields-maintenance",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/work-order-user-defined-fields-maintenance: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/p.m.-tasks-maintenance/p.m.-tasks-listing",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/p.m.-tasks-maintenance/p.m.-tasks-listing",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/p.m.-tasks-maintenance/p.m.-tasks-listing: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/p.m.-tasks-maintenance/p.m.-tasks-listing/p.m.-tasks-listing---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/p.m.-tasks-maintenance/p.m.-tasks-listing/p.m.-tasks-listing---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/p.m.-tasks-maintenance/p.m.-tasks-listing/p.m.-tasks-listing---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/p.m.-schedule/standard-parts-list",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/p.m.-schedule/standard-parts-list",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/p.m.-schedule/standard-parts-list: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/batch-p.m.-service-entry/batch-p.m.-service-entry---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/batch-p.m.-service-entry/batch-p.m.-service-entry---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/batch-p.m.-service-entry/batch-p.m.-service-entry---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/batch-p.m.-service-entry/p.m.-service---parts-used",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/batch-p.m.-service-entry/p.m.-service---parts-used",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/batch-p.m.-service-entry/p.m.-service---parts-used: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/work-order-user-defined-fields-maintenance/user-defined-fields-maintenance-overview/work-order-user-defined-fields-listing/work-order-user-defined-fields-listing---sample-report",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/work-order-user-defined-fields-maintenance/user-defined-fields-maintenance-overview/work-order-user-defined-fields-listing/work-order-user-defined-fields-listing---sample-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/maintenance-overview/work-order-user-defined-fields-maintenance/user-defined-fields-maintenance-overview/work-order-user-defined-fields-listing/work-order-user-defined-fields-listing---sample-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/p.m.-schedule",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/p.m.-schedule",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/p.m.-schedule: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/equipment-work-order-entry",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/equipment-work-order-entry",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/equipment-work-order-entry: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/equipment-work-orders/equipment-work-orders---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/equipment-work-orders/equipment-work-orders---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/equipment-work-orders/equipment-work-orders---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/p.m.-service-performed-register/p.m.-service-performed-register---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/p.m.-service-performed-register/p.m.-service-performed-register---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/p.m.-service-performed-register/p.m.-service-performed-register---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/equipment-work-order-entry/work-ordered---properties/work-ordered---user-defined/work-ordered---user-defined---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/equipment-work-order-entry/work-ordered---properties/work-ordered---user-defined/work-ordered---user-defined---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/data-entry-overview/equipment-work-order-entry/work-ordered---properties/work-ordered---user-defined/work-ordered---user-defined---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/inquiries-overview/equipment-p.m.-service-history/equipment-p.m.-service-history---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/inquiries-overview/equipment-p.m.-service-history/equipment-p.m.-service-history---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/inquiries-overview/equipment-p.m.-service-history/equipment-p.m.-service-history---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/inquiries-overview/equipment-work-order-cost-analysis/equipment-work-order-cost-analysis---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/inquiries-overview/equipment-work-order-cost-analysis/equipment-work-order-cost-analysis---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/inquiries-overview/equipment-work-order-cost-analysis/equipment-work-order-cost-analysis---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-schedule-report/p.m.-schedule-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-schedule-report/p.m.-schedule-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-schedule-report/p.m.-schedule-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/procedures-overview/routine-activities/procedures-as-required/review-upcoming-tasks-and-plan-for-upcoming-labor--material-needs",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/procedures-overview/routine-activities/procedures-as-required/review-upcoming-tasks-and-plan-for-upcoming-labor--material-needs",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/procedures-overview/routine-activities/procedures-as-required/review-upcoming-tasks-and-plan-for-upcoming-labor--material-needs: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/procedures-overview/tell-me-how/view-upcoming-maintenance-for-equipment-already-in-the-repair-shop",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/procedures-overview/tell-me-how/view-upcoming-maintenance-for-equipment-already-in-the-repair-shop",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/procedures-overview/tell-me-how/view-upcoming-maintenance-for-equipment-already-in-the-repair-shop: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-schedule-report/p.m.-schedule-report-schedule-format-with-labor",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-schedule-report/p.m.-schedule-report-schedule-format-with-labor",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-schedule-report/p.m.-schedule-report-schedule-format-with-labor: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-schedule-report/p.m.-schedule-report-schedule-format-with-parts",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-schedule-report/p.m.-schedule-report-schedule-format-with-parts",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-schedule-report/p.m.-schedule-report-schedule-format-with-parts: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-cost-report/equipment-work-order-cost-report-by-equipment-type",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-cost-report/equipment-work-order-cost-report-by-equipment-type",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-cost-report/equipment-work-order-cost-report-by-equipment-type: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-backlog-report/equipment-work-order-backlog-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-backlog-report/equipment-work-order-backlog-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-backlog-report/equipment-work-order-backlog-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-backlog-report/equipment-work-order-backlog-report---open-backlog",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-backlog-report/equipment-work-order-backlog-report---open-backlog",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-backlog-report/equipment-work-order-backlog-report---open-backlog: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-backlog-report/equipment-work-order-backlog-report---detail-historical-backlog",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-backlog-report/equipment-work-order-backlog-report---detail-historical-backlog",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-backlog-report/equipment-work-order-backlog-report---detail-historical-backlog: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-backlog-report/report-calculations---equipment-work-order-backlog-report",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-backlog-report/report-calculations---equipment-work-order-backlog-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-backlog-report/report-calculations---equipment-work-order-backlog-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-form/equipment-work-order-form---sample-report_1",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-form/equipment-work-order-form---sample-report_1",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-form/equipment-work-order-form---sample-report_1: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-cost-report/equipment-work-order-cost-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-cost-report/equipment-work-order-cost-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-cost-report/equipment-work-order-cost-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-p.m.-setup-listing/equipment-p.m.-setup-listing-including-parts-and-notes",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-p.m.-setup-listing/equipment-p.m.-setup-listing-including-parts-and-notes",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-p.m.-setup-listing/equipment-p.m.-setup-listing-including-parts-and-notes: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-form/equipment-work-order-form---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-form/equipment-work-order-form---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-form/equipment-work-order-form---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-before-failure-report/mean-time-before-failure-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-before-failure-report/mean-time-before-failure-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-before-failure-report/mean-time-before-failure-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-before-failure-report/report-calculations---mean-time-before-failure-report",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-before-failure-report/report-calculations---mean-time-before-failure-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-before-failure-report/report-calculations---mean-time-before-failure-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-before-failure-report/mean-time-before-failure-report---detail",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-before-failure-report/mean-time-before-failure-report---detail",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-before-failure-report/mean-time-before-failure-report---detail: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-to-repair-report/mean-time-to-repair-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-to-repair-report/mean-time-to-repair-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-to-repair-report/mean-time-to-repair-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-to-repair-report/report-calculations---mean-time-to-repair-report",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-to-repair-report/report-calculations---mean-time-to-repair-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-to-repair-report/report-calculations---mean-time-to-repair-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-to-repair-report/mean-time-to-repair-report---detail",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-to-repair-report/mean-time-to-repair-report---detail",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/mean-time-to-repair-report/mean-time-to-repair-report---detail: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/parts--labor-requirements-report/parts--labor-requirements-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/parts--labor-requirements-report/parts--labor-requirements-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/parts--labor-requirements-report/parts--labor-requirements-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/parts--labor-requirements-report/parts-and-labor-requirements-report-by-parts",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/parts--labor-requirements-report/parts-and-labor-requirements-report-by-parts",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/parts--labor-requirements-report/parts-and-labor-requirements-report-by-parts: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-service-history-report/p.m.-service-history-report---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-service-history-report/p.m.-service-history-report---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-service-history-report/p.m.-service-history-report---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-service-history-report/p.m.-service-history-report-by-task",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-service-history-report/p.m.-service-history-report-by-task",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/p.m.-service-history-report/p.m.-service-history-report-by-task: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-p.m.-setup-listing/equipment-p.m.-setup-listing---field-descriptions",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-p.m.-setup-listing/equipment-p.m.-setup-listing---field-descriptions",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-p.m.-setup-listing/equipment-p.m.-setup-listing---field-descriptions: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-p.m.-setup-listing/equipment-p.m.-setup-listing---sample-report",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-p.m.-setup-listing/equipment-p.m.-setup-listing---sample-report",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-p.m.-setup-listing/equipment-p.m.-setup-listing---sample-report: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/procedures-overview",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/procedures-overview",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/procedures-overview: <urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-cost-report/equipment-work-order-cost-report---cost-center-information",
+      "menu_path": "/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-cost-report/equipment-work-order-cost-report---cost-center-information",
+      "error": "Failed to fetch https://help.trimble.com/en/spectrum/spectrum/equipment/preventive-maintenance/spectrum-menus/reports-overview/equipment-work-order-cost-report/equipment-work-order-cost-report---cost-center-information: <urlopen error [Errno 11001] getaddrinfo failed>"
     }
   ]
 }

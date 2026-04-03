@@ -1,0 +1,19 @@
+---
+title: "Summary Cost Inquiry by Cost Category - Life-to-date | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/inquiries-overview/component-group-cost-inquiry/summary-cost-inquiry-by-cost-category---life-to-date"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
+menu_path: "/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/inquiries-overview/component-group-cost-inquiry/summary-cost-inquiry-by-cost-category---life-to-date"
+---
+
+# Summary Cost Inquiry by Cost Category - Life-to-date
+
+Use this window to look up detailed history of the
+ equipment's costs incurred since the equipment's purchase date.
+This window shows cost categories (and their associated amounts) that
+ correspond to the selected Component groups selected on the [Component Group Cost Inquiry](/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/inquiries-overview/component-group-cost-inquiry) screen when the
+ Cost Categories button was
+ clicked.
+
+- Click the Cost Details button to open the [Equipment Cost History](/en/spectrum/spectrum/equipment/equipment-control/spectrum-menus/maintenance-overview/equipment/equipment-cost-history) window. The Equipment Cost History screen displays a record of all of the costs incurred. Additionally, it provides information on which employees worked on repairs, what parts might have been purchased through Accounts Payable, and any equipment control transaction entries.
+
+- Click the W.O. Costs button to view the Work Order Detail Cost Inquiry window. Use this window to view cost breakout by cost category for the selected work order and any selected non-work-order-specific lines). This window is useful for reviewing costs by cost category, particularly when the 'Cost Category Type' amounts on the main screen are outside the expected values. It also simplifies reviewing cost category-specific costs for a range of selected work orders.

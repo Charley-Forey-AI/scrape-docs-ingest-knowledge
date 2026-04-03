@@ -1,0 +1,14 @@
+---
+title: "Employee Images | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/accounting/payroll/inquiries-overview/employees/employee-documentation/employee-images"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
+menu_path: "/en/spectrum/spectrum/accounting/payroll/inquiries-overview/employees/employee-documentation/employee-images"
+---
+
+# Employee Images
+
+Image files are viewed in a browser and may be saved in PDF
+ format, as well as other formats.
+Document Imaging allows any number of documents to be attached to each transaction, and
+ batch scan functionality allows you to scan in a group of documents prior to entering the
+ transactions into the software.

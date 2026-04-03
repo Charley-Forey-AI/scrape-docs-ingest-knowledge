@@ -1,0 +1,116 @@
+---
+title: "Data Flow for Personal Information | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/human-resources/human-resource-module/data-integration/data-flow-for-personal-information"
+fetched_at: "2026-04-03T18:19:14.179823+00:00"
+menu_path: "/en/spectrum/spectrum/human-resources/human-resource-module/data-integration/data-flow-for-personal-information"
+---
+
+# Data Flow for Personal Information
+
+The following tables illustrate how data for Personal
+ Information fields flows between HR Management and Spectrum.
+
+## Employee Name Fields
+
+Note: The Personal Pronouns and
+ Preferred Name
+ fields are saved to HR Management only and do not currently sync back to Spectrum.
+
+Spectrum FieldSpectrum TableSpectrum Database FieldData FlowEmployee Self-Service FieldEmployee Self-Service Database Field
+First NamePR_EMPLOYEE_MASTER_3_MCLegal_First_NameFirst NameFirstName
+MiddlePR_EMPLOYEE_MASTER_3_MCLegal_Middle_NameMiddle NameMiddleName
+Last NamePR_EMPLOYEE_MASTER_3_MCLegal_Last_NameLast NameLastName
+SuffixPR_EMPLOYEE_MASTER_3_MCLegal_SuffixSuffixSuffix
+
+## Phone and Email Fields
+
+Spectrum FieldSpectrum TableSpectrum Database FieldData FlowEmployee Self-Service FieldEmployee Self-Service Database Field
+Personal PhonePR_EMPLOYEE_MASTER_1_MCPhoneHome PhonePersonalPhoneNumber
+Personal EmailPR_EMPLOYEE_MASTER_3_MCEmployee_Personal_ EmailPersonal Email AddressPersonalEmailAddress
+Work Mobile PhonePR_EMPLOYEE_MASTER_3_MC / PA_PHONE_MASTEREmployee_Mobile_Phone /
+ Phone_NumberWork Mobile PhoneOfficePhoneNumber
+Work ExtensionPR_EMPLOYEE_MASTER_3_MC /
+ PA_PHONE_MASTEREmployee_Extension / Phone_ExtWork ExtensionOfficePhoneNumberExtension
+Work EmailPR_EMPLOYEE_MASTER_3_MCEmployee_EmailWork Email AddressWorkEmailAddress
+
+## Address Fields
+
+Spectrum FieldSpectrum TableSpectrum Database FieldData FlowEmployee Self-Service FieldEmployee Self-Service Database Field
+Mailing
+ Address
+Address 1PR_EMPLOYEE_MASTER_1_MCStreet_AddressAddress 1MailingAddress1
+Address 2PR_EMPLOYEE_MASTER_1_MCStreet_Address2Address 2MailingAddress2
+CityPR_EMPLOYEE_MASTER_1_MCAddressCityMailingCity
+State / ProvincePR_EMPLOYEE_MASTER_1_MCStateState / ProvinceMailingState
+Postal CodePR_EMPLOYEE_MASTER_1_MCZip_CodeZip CodeMailingZipCode
+
+Spectrum FieldSpectrum TableSpectrum Database FieldData FlowEmployee Self-Service FieldEmployee Self-Service Database Field
+Home
+ Address
+Address 1PR_EMPLOYEE_MASTER_1_MCDomicile_AddressAddress 1HomeAddress1
+Address 2PR_EMPLOYEE_MASTER_1_MCDomicile_Address2Address 2HomeAddress2
+CityPR_EMPLOYEE_MASTER_1_MCDomicile_CityCityHomeCity
+State / ProvincePR_EMPLOYEE_MASTER_1_MCDomicile_StateState / ProvinceHomeState
+Postal CodePR_EMPLOYEE_MASTER_1_MCDomicile_Zip_CodeZip CodeHomeZipCode
+
+## Emergency Contact Fields
+
+Spectrum FieldSpectrum TableSpectrum Database FieldData FlowEmployee Self-Service FieldEmployee Self-Service Database Field
+ContactPR_EMPLOYEE_MASTER_1_MCEmergency_ContactContact NameEmergencyContact
+TelephonePR_EMPLOYEE_MASTER_1_MCEmergency_PhoneTelephone NumberEmergencyPhone
+RelationPR_EMPLOYEE_MASTER_1_MCEmergency_RelationshipRelationEmergencyRelationship
+
+## Direct Deposit Fields
+
+Spectrum FieldSpectrum TableSpectrum Database FieldData FlowEmployee Self-Service FieldEmployee Self-Service Database Field
+Allocation Method: Percent or Fixed
+ amountPR_EMPLOYEE_MASTER_1_MCAuto_Deposit_AllocationAllocation MethodAutoDepositAllocation
+
+Spectrum FieldSpectrum TableSpectrum Database FieldData FlowEmployee Self-Service FieldEmployee Self-Service Database Field
+Bank Account
+ - Priority 1
+Bank Account CodePR_EMPLOYEE_MASTER_1_MCBank_Account_Number / Encrypted_Bank_Account_NumberAccount NumberBankAccountNumber1
+Account TypePR_EMPLOYEE_MASTER_1_MCBank_Account_TypeType of AccountBankAccountType1
+ABA #PR_EMPLOYEE_MASTER_1_MCABA_NumberRouting NumberAbaNumber1
+StatusPR_EMPLOYEE_MASTER_1_MCAuto_Deposit_FlagStatusAutoDepositStatus1
+RatePR_EMPLOYEE_MASTER_1_MCAuto_Deposit_Rate1AmountAutoDepositRate1
+
+Spectrum FieldSpectrum TableSpectrum Database FieldData FlowEmployee Self-Service FieldEmployee Self-Service Database Field
+Bank Account
+ - Priority 2
+Bank Account CodePR_EMPLOYEE_MASTER_1_MCBank_Account_Number_2 /
+ Encrypted_Bank_Account_Number_2Account NumberBankAccountNumber2
+Account TypePR_EMPLOYEE_MASTER_1_MCBank_Account_Type_2Type of AccountBankAccountType2
+ABA #PR_EMPLOYEE_MASTER_1_MCABA_Number_2Routing NumberAbaNumber2
+StatusPR_EMPLOYEE_MASTER_1_MCAuto_Deposit_Flag_2StatusAutoDepositStatus2
+RatePR_EMPLOYEE_MASTER_1_MCAuto_Deposit_Rate2AmountAutoDepositRate2
+
+Spectrum FieldSpectrum TableSpectrum Database FieldData FlowEmployee Self-Service FieldEmployee Self-Service Database Field
+Bank Account
+ - Priority 3
+Bank Account CodePR_EMPLOYEE_MASTER_1_MCBank_Account_Number_3 /
+ Encrypted_Bank_Account_Number_3Account NumberBankAccountNumber3
+Account TypePR_EMPLOYEE_MASTER_1_MCBank_Account_Type_3Type of AccountBankAccountType3
+ABA #PR_EMPLOYEE_MASTER_1_MCABA_Number_3Routing NumberAbaNumber3
+StatusPR_EMPLOYEE_MASTER_1_MCAuto_Deposit_Flag_3StatusAutoDepositStatus3
+RatePR_EMPLOYEE_MASTER_1_MCAuto_Deposit_Rate3AmountAutoDepositRate3
+
+Spectrum FieldSpectrum TableSpectrum Database FieldData FlowEmployee Self-Service FieldEmployee Self-Service Database Field
+Bank Account
+ - Priority 4
+Bank Account CodePR_EMPLOYEE_MASTER_1_MCBank_Account_Number_4 /
+ Encrypted_Bank_Account_Number_4Account NumberBankAccountNumber4
+Account TypePR_EMPLOYEE_MASTER_1_MCBank_Account_Type_4Type of AccountBankAccountType4
+ABA #PR_EMPLOYEE_MASTER_1_MCABA_Number_4Routing NumberAbaNumber4
+StatusPR_EMPLOYEE_MASTER_1_MCAuto_Deposit_Flag_4StatusAutoDepositStatus4
+RatePR_EMPLOYEE_MASTER_1_MCAuto_Deposit_Rate4AmountAutoDepositRate4
+
+Spectrum FieldSpectrum TableSpectrum Database FieldData FlowEmployee Self-Service FieldEmployee Self-Service Database Field
+Bank Account
+ - Priority 5
+Bank Account CodePR_EMPLOYEE_MASTER_1_MCBank_Account_Number_5 /
+ Encrypted_Bank_Account_Number_5Account NumberBankAccountNumber5
+Account TypePR_EMPLOYEE_MASTER_1_MCBank_Account_Type_5Type of AccountBankAccountType5
+ABA #PR_EMPLOYEE_MASTER_1_MCABA_Number_5Routing NumberAbaNumber5
+StatusPR_EMPLOYEE_MASTER_1_MCAuto_Deposit_Flag_5StatusAutoDepositStatus5
+RatePR_EMPLOYEE_MASTER_1_MCAuto_Deposit_Rate5AmountAutoDepositRate5

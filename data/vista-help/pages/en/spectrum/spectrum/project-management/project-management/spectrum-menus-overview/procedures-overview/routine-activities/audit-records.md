@@ -1,0 +1,17 @@
+---
+title: "Audit Records | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/project-management/project-management/spectrum-menus-overview/procedures-overview/routine-activities/audit-records"
+fetched_at: "2026-04-03T18:19:14.179823+00:00"
+menu_path: "/en/spectrum/spectrum/project-management/project-management/spectrum-menus-overview/procedures-overview/routine-activities/audit-records"
+---
+
+# Audit Records
+
+Printed reports serve as important audit trail documents in
+ a computerized accounting system because detail transactions are sometimes removed during
+ period end processing to conserve disk space.
+Even when disk space is a secondary issue, detail records may be removed to speed
+ operations or to reduce historical display. These reports may also be referred to in case
+ of hardware problems. It is therefore important to maintain these reports in an orderly
+ fashion and on a regular basis.
+As a general rule when using the Spectrum software, whenever a selection provides for a report followed by option to update, this will be an important report to retain on file. In these cases, the final report printed prior to update is the important document to keep. In addition to these routine reports, there are certain period end reports that should also be printed and filed as a permanent record of the company.

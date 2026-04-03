@@ -1,0 +1,88 @@
+---
+title: "A/P Invoice Detail - Cost Center Information | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-payable/spectrum-menus/data-entry-overview/ap-invoice-detail/ap-invoice-detail---cost-center-information"
+fetched_at: "2026-04-03T20:05:26.860879+00:00"
+menu_path: "/en/spectrum/spectrum/accounting/accounts-payable/spectrum-menus/data-entry-overview/ap-invoice-detail/ap-invoice-detail---cost-center-information"
+---
+
+# A/P Invoice Detail - Cost Center Information
+
+Spectrum verifies the cost center assigned to the G/L
+ account code by comparing the entry to the list of allowed cost centers for that G/L account.
+ Spectrum compares the G/L account's list of shared cost centers with cost centers in your
+ assigned scheme, and if there are no common cost centers, then that G/L account code is not
+ allowed.
+Validation is also performed if you attempt to change or delete an existing distribution
+ line.
+When you change the work order in this window, the software automatically adjusts the cost center assigned to the distribution line. Entry of a new work order will be disallowed if you do not have permission for the new cost center.
+Below is a chart that outlines the impact of cost centers on different types of distribution lines.
+Line Type
+Cost Center Verification
+
+Direct Job Cost
+For direct job cost lines, Spectrum verifies that the job and phase code of an invoice line are permitted. Spectrum first assures that your operator has permission for cost center specified in the phase file, if any. Entry of that phase will not be permitted if the cost center in the phase file is disallowed. If the cost center is not specified in the phase file, the cost center assigned to the job will be assigned, provided your operator has permission for that cost center. Spectrum also assures that the cost center assigned to the line based on the job or phase is valid for the G/L account code specified on that line. Entry of that job will not be permitted if the cost centers in both the job and phase files are disallowed.
+When your operator's cost center scheme includes override settings for job
+ entries in Cost Center Scheme Maintenance, this
+ screen will validate the cost center assigned to direct job cost invoice
+ detail lines based on these overrides. The override cost center(s) supersede
+ the cost center list defined for the scheme in general. Spectrum compares
+ the cost center assigned in the entry screen detail with job override cost
+ centers in your operator's assigned cost center scheme, and if the cost
+ center is not included, then the invoice entry line will not be allowed.
+
+Direct Equipment Cost
+For direct equipment cost lines, Spectrum verifies that the equipment and cost category code of an invoice line are permitted. Spectrum will first assure that the operator has permission for cost center specified in the cost category file, if any. Entry of that cost category will not be permitted if the cost center in the cost category file is disallowed. If the cost center is not specified in the cost category file, the cost center assigned to the equipment will be assigned, provided your operator has permission for that cost center. Spectrum also assures that the cost center assigned to the line based on the equipment or cost category is valid for the G/L account code specified on that line. Entry of that equipment code will not be permitted if the cost centers in both the equipment and cost category files are disallowed.
+When your operator's cost center scheme includes override settings for
+ equipment entries in Cost Center Scheme Maintenance,
+ this screen validates the cost center assigned to direct equipment cost
+ invoice detail lines based on these overrides. The override cost center(s)
+ supersede the cost center list defined for the scheme in general. Spectrum
+ compares the cost center assigned in the entry screen detail with equipment
+ override cost centers in your operator's assigned cost center scheme, and if
+ the cost center is not included, then the invoice entry line will not be
+ allowed.
+
+Direct Work Order Cost
+For direct work order cost lines, the cost center field will default to the cost center specified for the work order site. This field will be display-only.
+When your operator's cost center scheme overrides are present, then the site overrides are applied. The software verifies that the site is allowed for the operator (using overrides if applicable), that the cost center of the site is allowed for the G/L account, and that the operator is allowed to assign the G/L account.
+
+Non-Job
+When your operator's cost center scheme includes override settings for non-job
+ entries in Cost Center Scheme Maintenance, this
+ screen validates the cost center assigned to non-direct invoice detail lines
+ based on these overrides. The override cost center(s) supersede the cost
+ center list defined for the scheme in general. Spectrum compares the cost
+ center assigned in the entry screen detail with non-job override cost
+ centers in your operator's assigned cost center scheme, and if the cost
+ center is not included, then that cost center will not be allowed on the
+ detail line.
+
+Automatically Created
+When distribution lines are created automatically based on G/L accounts and
+ percentages designated in the Add or
+ Edit windows of Vendors,
+ detail lines are created even if your operator does not have security
+ authorization for the G/L account assigned to the new line. In this case,
+ your operator will be able to view the detail but will be disallowed to
+ change or delete the line. If a cost center is specified in Vendors for the
+ automatic G/L distribution, that cost center will be assigned automatically.
+ Otherwise, the cost center assigned in the invoice header (main screen) will
+ be applied. (It is possible in this case that the automatically-created
+ distribution line will be assigned a cost center that is disallowed for the
+ corresponding G/L account; however, Spectrum will accept and update the
+ entry when created using this method).
+
+Multi-Company
+When multi-company distribution lines are added, cost center validation is
+ performed based on settings in the destination company. When the
+ Enterprise Installation option for cost centers is
+ set to Yes in the destination company, then the cost
+ center designated on the distribution line must be valid in that other
+ company. Spectrum also verifies that the cost center is valid for the G/L
+ account and operator in that other company. Job, phase, equipment, and cost
+ category authorization is also validated with your operator settings in the
+ destination company. When the Enterprise Installation
+ option for cost centers is set to No or
+ Pending in the destination company, then the
+ Cost center field will not appear on that line of
+ the invoice.

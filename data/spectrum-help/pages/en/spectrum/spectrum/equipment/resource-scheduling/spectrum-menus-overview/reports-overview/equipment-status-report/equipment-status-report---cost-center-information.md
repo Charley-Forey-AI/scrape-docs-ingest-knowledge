@@ -1,0 +1,13 @@
+---
+title: "Equipment Status Report - Cost Center Information | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/equipment/resource-scheduling/spectrum-menus-overview/reports-overview/equipment-status-report/equipment-status-report---cost-center-information"
+fetched_at: "2026-04-03T20:05:26.860879+00:00"
+menu_path: "/en/spectrum/spectrum/equipment/resource-scheduling/spectrum-menus-overview/reports-overview/equipment-status-report/equipment-status-report---cost-center-information"
+---
+
+# Equipment Status Report - Cost Center Information
+
+If the cost center feature is enabled in the Enterprise
+ Installation screen, the equipment will not display unless the operator has security to the
+ equipment's cost center (no overrides apply).
+Only equipment cost center security is used for this report.

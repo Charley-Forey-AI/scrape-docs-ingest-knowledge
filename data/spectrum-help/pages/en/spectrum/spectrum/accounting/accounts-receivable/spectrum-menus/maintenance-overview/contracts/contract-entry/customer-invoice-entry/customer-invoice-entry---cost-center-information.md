@@ -1,0 +1,18 @@
+---
+title: "Customer Invoice Entry - Cost Center Information | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-receivable/spectrum-menus/maintenance-overview/contracts/contract-entry/customer-invoice-entry/customer-invoice-entry---cost-center-information"
+fetched_at: "2026-04-03T20:05:26.860879+00:00"
+menu_path: "/en/spectrum/spectrum/accounting/accounts-receivable/spectrum-menus/maintenance-overview/contracts/contract-entry/customer-invoice-entry/customer-invoice-entry---cost-center-information"
+---
+
+# Customer Invoice Entry - Cost Center Information
+
+If the cost center feature is enabled in the Enterprise Installation screen, Spectrum performs a series of cost center validations during entry. Spectrum will allow the operator to add an invoice for a customer only if the operator has permission to access that customer's information. Spectrum compares the customer's list of shared cost centers with cost centers in the operator's assigned scheme; if there are no common cost centers, then invoice entry for that customer will be disallowed.
+Spectrum will also verify that the operator has authorization for the contract. Spectrum compares the contract's cost center with cost centers in the operator's assigned scheme; if the cost center assigned to the contract is not present, then that entry for that contract will not be allowed. When the operator's scheme includes override settings for 'Contract' entries in Cost Center Scheme Maintenance, this screen will validate the cost center assigned to the contract based on these overrides. The override cost center(s) supersede the cost center list defined for the scheme in general. Spectrum will compare the cost center assigned to the contract with 'Contract' override cost centers in the operator's assigned scheme; if the cost center is not included, then entry for that contract will not be allowed.
+
+## Header Cost Center Defaults Flowchart
+
+Spectrum will prompt for an invoice cost center in the header of Invoice Entry for non-job invoices. During detail entry, the cost center will default from the equipment, but changes are allowed. A Cost center field is also provided on each detail line for expense distribution. As the cost center is recorded, Spectrum compares the customer's list of shared cost centers with cost centers in the operator's assigned scheme; if there are no common cost centers, then that cost center is not allowed. For job invoices, the cost center assigned to the job is displayed, but changes are allowed.
+When the operator's scheme includes override settings for 'Non-job' entries in Cost Center Scheme Maintenance, this screen will validate the cost center assigned to non-job, non-equipment detail lines based on these overrides. The override cost center(s) supersede the cost center list defined for the scheme in general. Spectrum will compare the cost center assigned in the entry screen detail with 'Non-job' override cost centers in the operator's assigned scheme; if the cost center is not included, then the invoice entry line will no be allowed.
+When the Allow G/L account overrides by cost center checkbox is selected on the Enterprise Installation screen, Spectrum will assign Accounts Receivable trade and non-contract sales general Ledger accounts, by cost center based on a list of override G/L accounts in the respective Override windows in Accounts Receivable Installation.
+If Multi-Currency processing is being used, and Cost Centers are present ,and 'G/L Account Overrides' are enabled, the system will use the Override G/L account setup instead of the currency-specific settings.

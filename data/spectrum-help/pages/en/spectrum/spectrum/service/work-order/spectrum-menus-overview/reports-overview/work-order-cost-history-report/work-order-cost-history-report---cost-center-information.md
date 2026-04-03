@@ -1,0 +1,18 @@
+---
+title: "Work Order Cost History Report - Cost Center Information | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-cost-history-report/work-order-cost-history-report---cost-center-information"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
+menu_path: "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/work-order-cost-history-report/work-order-cost-history-report---cost-center-information"
+---
+
+# Work Order Cost History Report - Cost Center Information
+
+If the cost center feature is enabled in the Enterprise
+ Installation screen for this company, a Cost
+ group field displays beneath the Contract field.
+When a cost group or cost center is specified on this screen, the report only shows work
+ orders assigned to cost centers in that group. Spectrum includes costs for the work
+ order on the report only if the operator has permission to access the cost center
+ assigned to the work order. The software verifies that the operator has permission to
+ access the selected cost center before proceeding.
+When cost centers are enabled for this company, the General ledger sort option will sort and subtotal primarily on G/L date and cost center; then by G/L account; and lastly by work order, transaction type, and date.

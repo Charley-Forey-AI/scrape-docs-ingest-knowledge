@@ -1,0 +1,10 @@
+---
+title: "Packing List Print | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/materials/order-processing/spectrum-menus/reports-overview/print-pick-list-form/packing-list-print"
+fetched_at: "2026-04-03T20:05:26.860879+00:00"
+menu_path: "/en/spectrum/spectrum/materials/order-processing/spectrum-menus/reports-overview/print-pick-list-form/packing-list-print"
+---
+
+# Packing List Print
+
+View the Packing List Print report.

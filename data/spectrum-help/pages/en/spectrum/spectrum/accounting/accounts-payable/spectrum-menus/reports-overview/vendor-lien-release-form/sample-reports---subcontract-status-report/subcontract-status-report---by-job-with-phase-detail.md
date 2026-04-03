@@ -1,0 +1,8 @@
+---
+title: "Subcontract Status Report - By Job With Phase Detail | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-payable/spectrum-menus/reports-overview/vendor-lien-release-form/sample-reports---subcontract-status-report/subcontract-status-report---by-job-with-phase-detail"
+fetched_at: "2026-04-03T20:43:54.261868+00:00"
+menu_path: "/en/spectrum/spectrum/accounting/accounts-payable/spectrum-menus/reports-overview/vendor-lien-release-form/sample-reports---subcontract-status-report/subcontract-status-report---by-job-with-phase-detail"
+---
+
+# Subcontract Status Report - By Job With Phase Detail

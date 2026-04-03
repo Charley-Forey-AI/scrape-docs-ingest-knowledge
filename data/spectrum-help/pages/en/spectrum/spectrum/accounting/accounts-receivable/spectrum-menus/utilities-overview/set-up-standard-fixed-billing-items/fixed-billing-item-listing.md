@@ -1,0 +1,10 @@
+---
+title: "Fixed Billing Item Listing | Trimble Help"
+source_url: "https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-receivable/spectrum-menus/utilities-overview/set-up-standard-fixed-billing-items/fixed-billing-item-listing"
+fetched_at: "2026-04-03T20:05:26.860879+00:00"
+menu_path: "/en/spectrum/spectrum/accounting/accounts-receivable/spectrum-menus/utilities-overview/set-up-standard-fixed-billing-items/fixed-billing-item-listing"
+---
+
+# Fixed Billing Item Listing
+
+Use the Fixed Billing Item Listing to obtain a report of fixed billing items entered in Set Up Standard Fixed Billing Items.
