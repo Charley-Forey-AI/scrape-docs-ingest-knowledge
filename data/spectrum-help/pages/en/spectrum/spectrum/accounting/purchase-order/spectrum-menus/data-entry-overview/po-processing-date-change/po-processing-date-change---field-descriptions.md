@@ -1,7 +1,7 @@
 ---
 title: "P/O Processing Date Change - Field Descriptions | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/po-processing-date-change/po-processing-date-change---field-descriptions"
-fetched_at: "2026-04-03T20:05:26.860879+00:00"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
 menu_path: "/en/spectrum/spectrum/accounting/purchase-order/spectrum-menus/data-entry-overview/po-processing-date-change/po-processing-date-change---field-descriptions"
 ---
 

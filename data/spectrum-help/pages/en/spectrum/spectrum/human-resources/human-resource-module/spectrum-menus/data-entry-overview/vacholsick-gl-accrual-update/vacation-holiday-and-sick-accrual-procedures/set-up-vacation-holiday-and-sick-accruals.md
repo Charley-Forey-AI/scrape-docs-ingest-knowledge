@@ -1,7 +1,7 @@
 ---
 title: "Set Up Vacation, Holiday, and Sick Accruals | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/human-resources/human-resource-module/spectrum-menus/data-entry-overview/vacholsick-gl-accrual-update/vacation-holiday-and-sick-accrual-procedures/set-up-vacation-holiday-and-sick-accruals"
-fetched_at: "2026-04-03T20:05:26.860879+00:00"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
 menu_path: "/en/spectrum/spectrum/human-resources/human-resource-module/spectrum-menus/data-entry-overview/vacholsick-gl-accrual-update/vacation-holiday-and-sick-accrual-procedures/set-up-vacation-holiday-and-sick-accruals"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Cost Center Maintenance - Properties Tab | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/tools/enterprise-management/spectrum-menus/maintenance-overview/cost-center-maintenance/cost-center-maintenance---properties-tab"
-fetched_at: "2026-04-03T20:05:26.860879+00:00"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
 menu_path: "/en/spectrum/spectrum/tools/enterprise-management/spectrum-menus/maintenance-overview/cost-center-maintenance/cost-center-maintenance---properties-tab"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Pre-Time Card and Workflow Notes | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/tools/workflow/workflow-definition-field-descriptions/time-card-approval-workflow-definition/time-card-approval/pre-time-card-and-workflow-notes"
-fetched_at: "2026-04-03T20:05:26.860879+00:00"
+fetched_at: "2026-04-03T20:47:07.463050+00:00"
 menu_path: "/en/spectrum/spectrum/tools/workflow/workflow-definition-field-descriptions/time-card-approval-workflow-definition/time-card-approval/pre-time-card-and-workflow-notes"
 ---
 

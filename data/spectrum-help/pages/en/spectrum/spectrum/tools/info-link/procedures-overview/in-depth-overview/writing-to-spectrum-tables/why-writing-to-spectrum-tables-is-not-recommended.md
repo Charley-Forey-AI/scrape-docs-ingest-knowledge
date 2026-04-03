@@ -1,7 +1,7 @@
 ---
 title: "Why Writing to Spectrum Tables is NOT Recommended | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/tools/info-link/procedures-overview/in-depth-overview/writing-to-spectrum-tables/why-writing-to-spectrum-tables-is-not-recommended"
-fetched_at: "2026-04-03T20:05:26.860879+00:00"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
 menu_path: "/en/spectrum/spectrum/tools/info-link/procedures-overview/in-depth-overview/writing-to-spectrum-tables/why-writing-to-spectrum-tables-is-not-recommended"
 ---
 

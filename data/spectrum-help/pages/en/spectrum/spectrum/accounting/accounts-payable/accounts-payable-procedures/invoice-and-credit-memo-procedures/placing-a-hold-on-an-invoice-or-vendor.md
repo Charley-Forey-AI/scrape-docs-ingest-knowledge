@@ -1,7 +1,7 @@
 ---
 title: "Placing a Hold on an Invoice or Vendor | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/accounting/accounts-payable/accounts-payable-procedures/invoice-and-credit-memo-procedures/placing-a-hold-on-an-invoice-or-vendor"
-fetched_at: "2026-04-03T20:05:26.860879+00:00"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
 menu_path: "/en/spectrum/spectrum/accounting/accounts-payable/accounts-payable-procedures/invoice-and-credit-memo-procedures/placing-a-hold-on-an-invoice-or-vendor"
 ---
 

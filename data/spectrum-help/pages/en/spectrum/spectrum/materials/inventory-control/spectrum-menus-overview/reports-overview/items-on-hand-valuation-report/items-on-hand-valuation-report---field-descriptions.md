@@ -1,7 +1,7 @@
 ---
 title: "Items-on-Hand Valuation Report - Field Descriptions | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/materials/inventory-control/spectrum-menus-overview/reports-overview/items-on-hand-valuation-report/items-on-hand-valuation-report---field-descriptions"
-fetched_at: "2026-04-03T20:05:26.860879+00:00"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
 menu_path: "/en/spectrum/spectrum/materials/inventory-control/spectrum-menus-overview/reports-overview/items-on-hand-valuation-report/items-on-hand-valuation-report---field-descriptions"
 ---
 

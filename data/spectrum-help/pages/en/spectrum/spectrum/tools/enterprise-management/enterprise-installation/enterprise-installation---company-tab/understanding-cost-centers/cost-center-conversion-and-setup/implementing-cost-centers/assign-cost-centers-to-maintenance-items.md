@@ -1,7 +1,7 @@
 ---
 title: "Assign Cost Centers to Maintenance Items | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/tools/enterprise-management/enterprise-installation/enterprise-installation---company-tab/understanding-cost-centers/cost-center-conversion-and-setup/implementing-cost-centers/assign-cost-centers-to-maintenance-items"
-fetched_at: "2026-04-03T20:05:26.860879+00:00"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
 menu_path: "/en/spectrum/spectrum/tools/enterprise-management/enterprise-installation/enterprise-installation---company-tab/understanding-cost-centers/cost-center-conversion-and-setup/implementing-cost-centers/assign-cost-centers-to-maintenance-items"
 ---
 

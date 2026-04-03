@@ -1,7 +1,7 @@
 ---
 title: "What's New in Automatic Invoicing 2023 R3 | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/whats-new/whats-new-in-automatic-invoicing-with-trimble-construction-one/2023-releases/whats-new-in-automatic-invoicing-2023-r3"
-fetched_at: "2026-04-03T20:05:26.860879+00:00"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
 menu_path: "/en/spectrum/spectrum/whats-new/whats-new-in-automatic-invoicing-with-trimble-construction-one/2023-releases/whats-new-in-automatic-invoicing-2023-r3"
 ---
 

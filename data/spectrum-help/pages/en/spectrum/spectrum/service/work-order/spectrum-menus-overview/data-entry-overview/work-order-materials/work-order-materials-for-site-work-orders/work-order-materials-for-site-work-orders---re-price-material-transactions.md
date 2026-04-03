@@ -1,7 +1,7 @@
 ---
 title: "Work Order Materials for Site work orders - Re-price Material Transactions | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-order-materials/work-order-materials-for-site-work-orders/work-order-materials-for-site-work-orders---re-price-material-transactions"
-fetched_at: "2026-04-03T20:05:26.860879+00:00"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
 menu_path: "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/data-entry-overview/work-order-materials/work-order-materials-for-site-work-orders/work-order-materials-for-site-work-orders---re-price-material-transactions"
 ---
 

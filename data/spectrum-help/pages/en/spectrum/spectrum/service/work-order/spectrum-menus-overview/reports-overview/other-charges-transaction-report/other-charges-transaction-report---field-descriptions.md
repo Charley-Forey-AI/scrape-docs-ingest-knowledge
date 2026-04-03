@@ -1,7 +1,7 @@
 ---
 title: "Other Charges Transaction Report - Field Descriptions | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/other-charges-transaction-report/other-charges-transaction-report---field-descriptions"
-fetched_at: "2026-04-03T20:05:26.860879+00:00"
+fetched_at: "2026-04-03T20:47:07.463050+00:00"
 menu_path: "/en/spectrum/spectrum/service/work-order/spectrum-menus-overview/reports-overview/other-charges-transaction-report/other-charges-transaction-report---field-descriptions"
 ---
 
