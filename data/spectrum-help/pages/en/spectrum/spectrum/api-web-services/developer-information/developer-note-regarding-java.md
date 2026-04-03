@@ -1,7 +1,7 @@
 ---
 title: "Developer Note regarding Java | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/api-web-services/developer-information/developer-note-regarding-java"
-fetched_at: "2026-04-03T20:43:54.261868+00:00"
+fetched_at: "2026-04-03T20:47:07.463050+00:00"
 menu_path: "/en/spectrum/spectrum/api-web-services/developer-information/developer-note-regarding-java"
 ---
 

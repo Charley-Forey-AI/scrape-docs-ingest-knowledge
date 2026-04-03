@@ -1,7 +1,7 @@
 ---
 title: "Export T4 File - Field Descriptions | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/accounting/payroll/period-end-procedures/payroll-year-end-processing-canada/t4-slip-maintenance/export-t4-file/export-t4-file---field-descriptions"
-fetched_at: "2026-04-03T20:43:54.261868+00:00"
+fetched_at: "2026-04-03T20:47:07.463050+00:00"
 menu_path: "/en/spectrum/spectrum/accounting/payroll/period-end-procedures/payroll-year-end-processing-canada/t4-slip-maintenance/export-t4-file/export-t4-file---field-descriptions"
 ---
 
