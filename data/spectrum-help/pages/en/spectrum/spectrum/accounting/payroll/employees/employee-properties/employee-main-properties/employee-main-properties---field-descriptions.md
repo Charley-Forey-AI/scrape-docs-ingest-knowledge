@@ -1,7 +1,7 @@
 ---
 title: "Employee Main Properties - Field Descriptions | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/accounting/payroll/employees/employee-properties/employee-main-properties/employee-main-properties---field-descriptions"
-fetched_at: "2026-04-03T20:43:54.261868+00:00"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
 menu_path: "/en/spectrum/spectrum/accounting/payroll/employees/employee-properties/employee-main-properties/employee-main-properties---field-descriptions"
 ---
 

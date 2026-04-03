@@ -1,7 +1,7 @@
 ---
 title: "Data Exchange Download | Trimble Help"
 source_url: "https://help.trimble.com/en/spectrum/spectrum/system-administration/administrator-utilities/data-exchange-download"
-fetched_at: "2026-04-03T20:43:54.261868+00:00"
+fetched_at: "2026-04-03T20:47:47.926179+00:00"
 menu_path: "/en/spectrum/spectrum/system-administration/administrator-utilities/data-exchange-download"
 ---
 
@@ -12,9 +12,9 @@ To use the Spectrum Office Add-in, the Data Exchange module must be active, the 
 Important: Each time a new release of Spectrum is installed, the Spectrum Office Add-in needs to be installed in order to have the current programming. To download the programming, define the Authorization ID, select the Export button, and follow the standard Spectrum download process.
 See the following guides for reference:
 
-- [Spectrum Office Add-in](https://trimble.deploy.heretto.com/v4/deployments/mVyHSMAo9PbkfqcxUBWF/object/9c1ae160-8ea8-11ec-9179-02420ae60f1a?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJodHRwczovL2pvcnNlay5jb20vZXpkX29yZ2FuaXphdGlvbiI6InZpZXdwb2ludCIsImh0dHBzOi8vam9yc2VrLmNvbS9lemQvb2JqZWN0X3V1aWQiOiI5YzFhZTE2MC04ZWE4LTExZWMtOTE3OS0wMjQyMGFlNjBmMWEiLCJleHAiOjE3NzUzMzI5MDksImp0aSI6IjFhNmI1Yzk3MTU5MDQ4NTZiMTVkN2VkNzViMjllYTI1IiwiaHR0cHM6Ly9qb3JzZWsuY29tL2V6ZF9maWxlc2V0IjoiOE1GRmpJZEw3ZEZLQmJiVGwxTXMifQ.TkIlzT88JFvKAOuDhVnJUoUdXr1eCa_CECUGqiw46yY&response-content-disposition=filename%3D%22SDX-SPECTRUM-OFFICE-ADDIN-2021R2.pdf%22)
+- [Spectrum Office Add-in](https://trimble.deploy.heretto.com/v4/deployments/mVyHSMAo9PbkfqcxUBWF/object/9c1ae160-8ea8-11ec-9179-02420ae60f1a?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJodHRwczovL2pvcnNlay5jb20vZXpkX29yZ2FuaXphdGlvbiI6InZpZXdwb2ludCIsImh0dHBzOi8vam9yc2VrLmNvbS9lemQvb2JqZWN0X3V1aWQiOiI5YzFhZTE2MC04ZWE4LTExZWMtOTE3OS0wMjQyMGFlNjBmMWEiLCJleHAiOjE3NzUzMzE2ODksImp0aSI6IjNkMTdlNTc3ZTc5NTQ5YWRiODE3MzMxNDdiMTY2MWY4IiwiaHR0cHM6Ly9qb3JzZWsuY29tL2V6ZF9maWxlc2V0IjoiOE1GRmpJZEw3ZEZLQmJiVGwxTXMifQ.KFjJuTbu4SxTFio5NO-NUb8srfE6r_PMkDDEfpikJu4&response-content-disposition=filename%3D%22SDX-SPECTRUM-OFFICE-ADDIN-2021R2.pdf%22)
 
-- [Authorization Setup](https://trimble.deploy.heretto.com/v4/deployments/mVyHSMAo9PbkfqcxUBWF/object/9bd043d0-8ea8-11ec-9179-02420ae60f1a?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJodHRwczovL2pvcnNlay5jb20vZXpkX29yZ2FuaXphdGlvbiI6InZpZXdwb2ludCIsImh0dHBzOi8vam9yc2VrLmNvbS9lemQvb2JqZWN0X3V1aWQiOiI5YmQwNDNkMC04ZWE4LTExZWMtOTE3OS0wMjQyMGFlNjBmMWEiLCJleHAiOjE3NzUzMzI5MDksImp0aSI6IjAxOWIwNzkyNThhZjRiZTRiOGFhY2JiOGNkNzcxODdhIiwiaHR0cHM6Ly9qb3JzZWsuY29tL2V6ZF9maWxlc2V0IjoiOE1GRmpJZEw3ZEZLQmJiVGwxTXMifQ.R430kj8lCB0OF-fNlw_85zNl9GswjpaDwZsKqaylEaE&response-content-disposition=filename%3D%22SDX-AUTHORIZATION-SETUP-2021R2.pdf%22)
+- [Authorization Setup](https://trimble.deploy.heretto.com/v4/deployments/mVyHSMAo9PbkfqcxUBWF/object/9bd043d0-8ea8-11ec-9179-02420ae60f1a?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJodHRwczovL2pvcnNlay5jb20vZXpkX29yZ2FuaXphdGlvbiI6InZpZXdwb2ludCIsImh0dHBzOi8vam9yc2VrLmNvbS9lemQvb2JqZWN0X3V1aWQiOiI5YmQwNDNkMC04ZWE4LTExZWMtOTE3OS0wMjQyMGFlNjBmMWEiLCJleHAiOjE3NzUzMzE2ODksImp0aSI6ImYzODhlZTYwNGQ3MjQwNGM4YzUwOWZkZjJlYWU0YjA2IiwiaHR0cHM6Ly9qb3JzZWsuY29tL2V6ZF9maWxlc2V0IjoiOE1GRmpJZEw3ZEZLQmJiVGwxTXMifQ.LHjz2XaGgKqTr8h-b7OzorH7TQidYJIyDPg21aEE5Tg&response-content-disposition=filename%3D%22SDX-AUTHORIZATION-SETUP-2021R2.pdf%22)
 
 Related information
 
